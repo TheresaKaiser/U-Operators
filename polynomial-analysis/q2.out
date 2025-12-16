@@ -1,0 +1,122 @@
+Magma V2.29-2     Thu Nov 27 2025 17:29:18 on riemann  [Seed = 2867575827]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "testPolsq2.mg"
+Loading "header.mg"
+2
+i:  1
+type:  0
+Loading "pols-q2-i1.txt"
+Test completed successfully for k = 0
+Test completed successfully for k = 1
+Test completed successfully for k = 2
+Test completed successfully for k = 3
+q=2, i=1, k=4, type=0. T_i-Charpol (needs to be renormalized): X + t. 
+Test completed successfully for k = 4
+q=2, i=1, k=5, type=0. T_i-Charpol (needs to be renormalized): X + t^2. 
+Test completed successfully for k = 5
+q=2, i=1, k=6, type=0. T_i-Charpol (needs to be renormalized): X + t. 
+Test completed successfully for k = 6
+Test completed successfully for k = 7
+Test completed successfully for k = 8
+Test completed successfully for k = 9
+Test completed successfully for k = 10
+Test completed successfully for k = 11
+Test completed successfully for k = 12
+Test completed successfully for k = 13
+Test completed successfully for k = 14
+Test completed successfully for k = 15
+Test completed successfully for k = 16
+Test completed successfully for k = 17
+Test completed successfully for k = 18
+Test completed successfully for k = 19
+Test completed successfully for k = 20
+Test completed successfully for k = 21
+Test completed successfully for k = 22
+Test completed successfully for k = 23
+Test completed successfully for k = 24
+Test completed successfully for k = 25
+Test completed successfully for k = 26
+Test completed successfully for k = 27
+Test completed successfully for k = 28
+Test completed successfully for k = 29
+Test completed successfully for k = 30
+Test completed successfully for k = 31
+Test completed successfully for k = 32
+Test completed successfully for k = 33
+Test completed successfully for k = 34
+Test completed successfully for k = 35
+Test completed successfully for k = 36
+Test completed successfully for k = 37
+Test completed successfully for k = 38
+Test completed successfully for k = 39
+Test completed successfully for k = 40
+Test completed successfully for k = 41
+Test completed successfully for k = 42
+Test completed successfully for k = 43
+Test completed successfully for k = 44
+Test completed successfully for k = 45
+Test completed successfully for k = 46
+Test completed successfully for k = 47
+Test completed successfully for k = 48
+Test completed successfully for k = 49
+Test completed successfully for k = 50
+i:  2
+type:  0
+Loading "pols-q2-i2.txt"
+Test completed successfully for k = 0
+Test completed successfully for k = 1
+Test completed successfully for k = 2
+Test completed successfully for k = 3
+q=2, i=2, k=4, type=0. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 4
+q=2, i=2, k=5, type=0. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 5
+q=2, i=2, k=6, type=0. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 6
+Test completed successfully for k = 7
+Test completed successfully for k = 8
+Test completed successfully for k = 9
+Test completed successfully for k = 10
+Test completed successfully for k = 11
+Test completed successfully for k = 12
+Test completed successfully for k = 13
+Test completed successfully for k = 14
+Test completed successfully for k = 15
+Test completed successfully for k = 16
+Test completed successfully for k = 17
+Test completed successfully for k = 18
+Test completed successfully for k = 19
+Test completed successfully for k = 20
+Test completed successfully for k = 21
+Test completed successfully for k = 22
+Test completed successfully for k = 23
+Test completed successfully for k = 24
+Test completed successfully for k = 25
+Test completed successfully for k = 26
+Test completed successfully for k = 27
+Test completed successfully for k = 28
+Test completed successfully for k = 29
+Test completed successfully for k = 30
+Test completed successfully for k = 31
+Test completed successfully for k = 32
+Test completed successfully for k = 33
+Test completed successfully for k = 34
+Test completed successfully for k = 35
+Test completed successfully for k = 36
+Test completed successfully for k = 37
+Test completed successfully for k = 38
+Test completed successfully for k = 39
+Test completed successfully for k = 40
+Test completed successfully for k = 41
+Test completed successfully for k = 42
+Test completed successfully for k = 43
+Test completed successfully for k = 44
+Test completed successfully for k = 45
+Test completed successfully for k = 46
+Test completed successfully for k = 47
+Test completed successfully for k = 48
+Test completed successfully for k = 49
+Test completed successfully for k = 50
+
+Total time: 1324.640 seconds, Total memory usage: 2055.03MB

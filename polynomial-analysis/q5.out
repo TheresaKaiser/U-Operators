@@ -1,0 +1,337 @@
+Magma V2.29-2     Fri Nov 28 2025 11:50:18 on riemann  [Seed = 526322603]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "testPolsq5.mg"
+Loading "header.mg"
+5
+i:  1
+type:  0
+Loading "pols-q5-type0-i1.txt"
+Test completed successfully for k = 1
+Test completed successfully for k = 5
+Test completed successfully for k = 9
+Test completed successfully for k = 13
+Test completed successfully for k = 17
+Test completed successfully for k = 21
+Test completed successfully for k = 25
+Test completed successfully for k = 29
+Test completed successfully for k = 33
+Test completed successfully for k = 37
+Test completed successfully for k = 41
+Test completed successfully for k = 45
+Test completed successfully for k = 49
+Test completed successfully for k = 53
+Test completed successfully for k = 57
+Test completed successfully for k = 61
+Test completed successfully for k = 65
+Test completed successfully for k = 69
+Test completed successfully for k = 73
+Test completed successfully for k = 77
+Test completed successfully for k = 81
+Test completed successfully for k = 85
+Test completed successfully for k = 89
+Test completed successfully for k = 93
+Test completed successfully for k = 97
+Test completed successfully for k = 101
+Test completed successfully for k = 105
+Test completed successfully for k = 109
+Test completed successfully for k = 113
+Test completed successfully for k = 117
+q=5, i=1, k=121, type=0. T_i-Charpol (needs to be renormalized): X + 4*t^22. 
+Test completed successfully for k = 121
+q=5, i=1, k=125, type=0. T_i-Charpol (needs to be renormalized): X + 4*t^26. 
+Test completed successfully for k = 125
+q=5, i=1, k=129, type=0. T_i-Charpol (needs to be renormalized): X + 4*t^30. 
+Test completed successfully for k = 129
+type:  1
+Loading "pols-q5-type1-i1.txt"
+Test completed successfully for k = 0
+Test completed successfully for k = 4
+Test completed successfully for k = 8
+Test completed successfully for k = 12
+Test completed successfully for k = 16
+Test completed successfully for k = 20
+Test completed successfully for k = 24
+q=5, i=1, k=28, type=1. T_i-Charpol (needs to be renormalized): X + 4*t^4. 
+Test completed successfully for k = 28
+q=5, i=1, k=32, type=1. T_i-Charpol (needs to be renormalized): X + 4*t^8. 
+Test completed successfully for k = 32
+q=5, i=1, k=36, type=1. T_i-Charpol (needs to be renormalized): X + 4*t^12. 
+Test completed successfully for k = 36
+q=5, i=1, k=40, type=1. T_i-Charpol (needs to be renormalized): X + 4*t^16. 
+Test completed successfully for k = 40
+q=5, i=1, k=44, type=1. T_i-Charpol (needs to be renormalized): X + 4*t^20. 
+Test completed successfully for k = 44
+q=5, i=1, k=48, type=1. T_i-Charpol (needs to be renormalized): X + 4*t^4. 
+Test completed successfully for k = 48
+Test completed successfully for k = 52
+Test completed successfully for k = 56
+Test completed successfully for k = 60
+Test completed successfully for k = 64
+Test completed successfully for k = 68
+Test completed successfully for k = 72
+Test completed successfully for k = 76
+Test completed successfully for k = 80
+Test completed successfully for k = 84
+Test completed successfully for k = 88
+Test completed successfully for k = 92
+Test completed successfully for k = 96
+Test completed successfully for k = 100
+Test completed successfully for k = 104
+Test completed successfully for k = 108
+Test completed successfully for k = 112
+Test completed successfully for k = 116
+Test completed successfully for k = 120
+Test completed successfully for k = 124
+Test completed successfully for k = 128
+type:  2
+Loading "pols-q5-type2-i1.txt"
+Test completed successfully for k = 3
+Test completed successfully for k = 7
+Test completed successfully for k = 11
+Test completed successfully for k = 15
+Test completed successfully for k = 19
+Test completed successfully for k = 23
+Test completed successfully for k = 27
+Test completed successfully for k = 31
+Test completed successfully for k = 35
+Test completed successfully for k = 39
+Test completed successfully for k = 43
+Test completed successfully for k = 47
+Test completed successfully for k = 51
+Test completed successfully for k = 55
+q=5, i=1, k=59, type=2. T_i-Charpol (needs to be renormalized): X + 4*t^10. 
+Test completed successfully for k = 59
+q=5, i=1, k=63, type=2. T_i-Charpol (needs to be renormalized): X + 4*t^14. 
+Test completed successfully for k = 63
+q=5, i=1, k=67, type=2. T_i-Charpol (needs to be renormalized): X + 4*t^18. 
+Test completed successfully for k = 67
+q=5, i=1, k=71, type=2. T_i-Charpol (needs to be renormalized): X + 4*t^22. 
+Test completed successfully for k = 71
+q=5, i=1, k=75, type=2. T_i-Charpol (needs to be renormalized): X + 4*t^26. 
+Test completed successfully for k = 75
+q=5, i=1, k=79, type=2. T_i-Charpol (needs to be renormalized): X + t^30 + 
+3*t^10. 
+Test completed successfully for k = 79
+Test completed successfully for k = 83
+Test completed successfully for k = 87
+Test completed successfully for k = 91
+Test completed successfully for k = 95
+Test completed successfully for k = 99
+Test completed successfully for k = 103
+Test completed successfully for k = 107
+Test completed successfully for k = 111
+Test completed successfully for k = 115
+Test completed successfully for k = 119
+Test completed successfully for k = 123
+Test completed successfully for k = 127
+type:  3
+Loading "pols-q5-type3-i1.txt"
+Test completed successfully for k = 2
+Test completed successfully for k = 6
+Test completed successfully for k = 10
+Test completed successfully for k = 14
+Test completed successfully for k = 18
+Test completed successfully for k = 22
+Test completed successfully for k = 26
+Test completed successfully for k = 30
+Test completed successfully for k = 34
+Test completed successfully for k = 38
+Test completed successfully for k = 42
+Test completed successfully for k = 46
+Test completed successfully for k = 50
+Test completed successfully for k = 54
+Test completed successfully for k = 58
+Test completed successfully for k = 62
+Test completed successfully for k = 66
+Test completed successfully for k = 70
+Test completed successfully for k = 74
+Test completed successfully for k = 78
+Test completed successfully for k = 82
+Test completed successfully for k = 86
+q=5, i=1, k=90, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^16. 
+Test completed successfully for k = 90
+q=5, i=1, k=94, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^20. 
+Test completed successfully for k = 94
+q=5, i=1, k=98, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^24. 
+Test completed successfully for k = 98
+q=5, i=1, k=102, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^28. 
+Test completed successfully for k = 102
+q=5, i=1, k=106, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^32. 
+Test completed successfully for k = 106
+q=5, i=1, k=110, type=3. T_i-Charpol (needs to be renormalized): X + 2*t^36 + 
+2*t^16. 
+Test completed successfully for k = 110
+Test completed successfully for k = 114
+Test completed successfully for k = 118
+Test completed successfully for k = 122
+Test completed successfully for k = 126
+Test completed successfully for k = 130
+i:  2
+type:  0
+Loading "pols-q5-type0-i2.txt"
+Test completed successfully for k = 1
+Test completed successfully for k = 5
+Test completed successfully for k = 9
+Test completed successfully for k = 13
+Test completed successfully for k = 17
+Test completed successfully for k = 21
+Test completed successfully for k = 25
+Test completed successfully for k = 29
+Test completed successfully for k = 33
+Test completed successfully for k = 37
+Test completed successfully for k = 41
+Test completed successfully for k = 45
+Test completed successfully for k = 49
+Test completed successfully for k = 53
+Test completed successfully for k = 57
+Test completed successfully for k = 61
+Test completed successfully for k = 65
+Test completed successfully for k = 69
+Test completed successfully for k = 73
+Test completed successfully for k = 77
+Test completed successfully for k = 81
+Test completed successfully for k = 85
+Test completed successfully for k = 89
+Test completed successfully for k = 93
+Test completed successfully for k = 97
+Test completed successfully for k = 101
+Test completed successfully for k = 105
+Test completed successfully for k = 109
+Test completed successfully for k = 113
+Test completed successfully for k = 117
+q=5, i=2, k=121, type=0. T_i-Charpol (needs to be renormalized): X + 4*t^3. 
+Test completed successfully for k = 121
+q=5, i=2, k=125, type=0. T_i-Charpol (needs to be renormalized): X + 3*t^7 + 
+t^3. 
+Test completed successfully for k = 125
+q=5, i=2, k=129, type=0. T_i-Charpol (needs to be renormalized): X + 2*t^11 + 
+2*t^7. 
+Test completed successfully for k = 129
+type:  1
+Loading "pols-q5-type1-i2.txt"
+Test completed successfully for k = 0
+Test completed successfully for k = 4
+Test completed successfully for k = 8
+Test completed successfully for k = 12
+Test completed successfully for k = 16
+Test completed successfully for k = 20
+Test completed successfully for k = 24
+q=5, i=2, k=28, type=1. T_i-Charpol (needs to be renormalized): X + 4. 
+Test completed successfully for k = 28
+q=5, i=2, k=32, type=1. T_i-Charpol (needs to be renormalized): X + 4. 
+Test completed successfully for k = 32
+q=5, i=2, k=36, type=1. T_i-Charpol (needs to be renormalized): X + 4. 
+Test completed successfully for k = 36
+q=5, i=2, k=40, type=1. T_i-Charpol (needs to be renormalized): X + 4. 
+Test completed successfully for k = 40
+q=5, i=2, k=44, type=1. T_i-Charpol (needs to be renormalized): X + 4. 
+Test completed successfully for k = 44
+q=5, i=2, k=48, type=1. T_i-Charpol (needs to be renormalized): X + 4. 
+Test completed successfully for k = 48
+Test completed successfully for k = 52
+Test completed successfully for k = 56
+Test completed successfully for k = 60
+Test completed successfully for k = 64
+Test completed successfully for k = 68
+Test completed successfully for k = 72
+Test completed successfully for k = 76
+Test completed successfully for k = 80
+Test completed successfully for k = 84
+Test completed successfully for k = 88
+Test completed successfully for k = 92
+Test completed successfully for k = 96
+Test completed successfully for k = 100
+Test completed successfully for k = 104
+Test completed successfully for k = 108
+Test completed successfully for k = 112
+Test completed successfully for k = 116
+Test completed successfully for k = 120
+Test completed successfully for k = 124
+Test completed successfully for k = 128
+type:  2
+Loading "pols-q5-type2-i2.txt"
+Test completed successfully for k = 3
+Test completed successfully for k = 7
+Test completed successfully for k = 11
+Test completed successfully for k = 15
+Test completed successfully for k = 19
+Test completed successfully for k = 23
+Test completed successfully for k = 27
+Test completed successfully for k = 31
+Test completed successfully for k = 35
+Test completed successfully for k = 39
+Test completed successfully for k = 43
+Test completed successfully for k = 47
+Test completed successfully for k = 51
+Test completed successfully for k = 55
+q=5, i=2, k=59, type=2. T_i-Charpol (needs to be renormalized): X + 4*t. 
+Test completed successfully for k = 59
+q=5, i=2, k=63, type=2. T_i-Charpol (needs to be renormalized): X + t^5 + 3*t. 
+Test completed successfully for k = 63
+q=5, i=2, k=67, type=2. T_i-Charpol (needs to be renormalized): X + 2*t^5 + 2*t.
+Test completed successfully for k = 67
+q=5, i=2, k=71, type=2. T_i-Charpol (needs to be renormalized): X + 3*t^5 + t. 
+Test completed successfully for k = 71
+q=5, i=2, k=75, type=2. T_i-Charpol (needs to be renormalized): X + 4*t^5. 
+Test completed successfully for k = 75
+q=5, i=2, k=79, type=2. T_i-Charpol (needs to be renormalized): X + 4*t. 
+Test completed successfully for k = 79
+Test completed successfully for k = 83
+Test completed successfully for k = 87
+Test completed successfully for k = 91
+Test completed successfully for k = 95
+Test completed successfully for k = 99
+Test completed successfully for k = 103
+Test completed successfully for k = 107
+Test completed successfully for k = 111
+Test completed successfully for k = 115
+Test completed successfully for k = 119
+Test completed successfully for k = 123
+Test completed successfully for k = 127
+type:  3
+Loading "pols-q5-type3-i2.txt"
+Test completed successfully for k = 2
+Test completed successfully for k = 6
+Test completed successfully for k = 10
+Test completed successfully for k = 14
+Test completed successfully for k = 18
+Test completed successfully for k = 22
+Test completed successfully for k = 26
+Test completed successfully for k = 30
+Test completed successfully for k = 34
+Test completed successfully for k = 38
+Test completed successfully for k = 42
+Test completed successfully for k = 46
+Test completed successfully for k = 50
+Test completed successfully for k = 54
+Test completed successfully for k = 58
+Test completed successfully for k = 62
+Test completed successfully for k = 66
+Test completed successfully for k = 70
+Test completed successfully for k = 74
+Test completed successfully for k = 78
+Test completed successfully for k = 82
+Test completed successfully for k = 86
+q=5, i=2, k=90, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^2. 
+Test completed successfully for k = 90
+q=5, i=2, k=94, type=3. T_i-Charpol (needs to be renormalized): X + 2*t^6 + 
+2*t^2. 
+Test completed successfully for k = 94
+q=5, i=2, k=98, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^10 + t^6
++ 4*t^2. 
+Test completed successfully for k = 98
+q=5, i=2, k=102, type=3. T_i-Charpol (needs to be renormalized): X + 2*t^10 + 
+2*t^6. 
+Test completed successfully for k = 102
+q=5, i=2, k=106, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^10. 
+Test completed successfully for k = 106
+q=5, i=2, k=110, type=3. T_i-Charpol (needs to be renormalized): X + 4*t^2. 
+Test completed successfully for k = 110
+Test completed successfully for k = 114
+Test completed successfully for k = 118
+Test completed successfully for k = 122
+Test completed successfully for k = 126
+Test completed successfully for k = 130
+
+Total time: 1615.789 seconds, Total memory usage: 718.44MB

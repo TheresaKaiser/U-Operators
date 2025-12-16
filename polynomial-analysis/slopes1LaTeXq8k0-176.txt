@@ -1,0 +1,358 @@
+$k$ & $T_1$-Slopes & $U_1^{P_0}$-Slopes & $U_1^{P_2}$-Slopes & $U_1^{G_0(t)}$-Slopes \\ 
+ \hline 
+$k$ & $T_1$-Slopes & $U_1^{P_0}$-Slopes & $U_1^{P_2}$-Slopes & $U_1^{G_0(t)}$-Slopes \\ 
+ \hline 
+4 &  &  &  &  \\ 
+ \hline 
+11 &  &  &  &  \\ 
+ \hline 
+18 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+25 &  &  &  & \textcolor{fullblue}{$14/3^{\mathbf{3}}$} \\ 
+ \hline 
+32 &  &  &  & \textcolor{fullblue}{$28/3^{\mathbf{6}}$} \\ 
+ \hline 
+39 &  &  &  & \textcolor{fullblue}{$14^{\mathbf{10}}$} \\ 
+ \hline 
+46 &  &  &  & \textcolor{fullblue}{$56/3^{\mathbf{15}}$} \\ 
+ \hline 
+53 &  &  &  & \textcolor{fullblue}{$70/3^{\mathbf{21}}$} \\ 
+ \hline 
+60 &  &  &  & \textcolor{fullblue}{$28^{\mathbf{28}}$} \\ 
+ \hline 
+67 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$98/3^{\mathbf{33}}$}, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+74 &  & $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$112/3^{\mathbf{39}}$}, $\infty^{\mathbf{5}}$ \\ 
+ \hline 
+81 &  & $\infty^{\mathbf{3}}$ & $14^{\mathbf{2}}$, $\infty^{\mathbf{1}}$ & $14^{\mathbf{2}}$, \textcolor{fullblue}{$42^{\mathbf{46}}$}, $\infty^{\mathbf{7}}$ \\ 
+ \hline 
+88 &  & $\infty^{\mathbf{4}}$ & $14^{\mathbf{2}}$, $\infty^{\mathbf{2}}$ & $14^{\mathbf{2}}$, \textcolor{fullblue}{$140/3^{\mathbf{54}}$}, $\infty^{\mathbf{10}}$ \\ 
+ \hline 
+95 &  & $\infty^{\mathbf{5}}$ & $28^{\mathbf{3}}$, $\infty^{\mathbf{2}}$ & $28^{\mathbf{3}}$, \textcolor{fullblue}{$154/3^{\mathbf{63}}$}, $\infty^{\mathbf{12}}$ \\ 
+ \hline 
+102 &  & $\infty^{\mathbf{6}}$ & $28^{\mathbf{3}}$, $\infty^{\mathbf{3}}$ & $28^{\mathbf{3}}$, \textcolor{fullblue}{$56^{\mathbf{73}}$}, $\infty^{\mathbf{15}}$ \\ 
+ \hline 
+109 &  & $\infty^{\mathbf{7}}$ & $42^{\mathbf{4}}$, $\infty^{\mathbf{3}}$ & $42^{\mathbf{4}}$, \textcolor{fullblue}{$182/3^{\mathbf{84}}$}, $\infty^{\mathbf{17}}$ \\ 
+ \hline 
+116 &  & $49^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $42^{\mathbf{4}}$, $49^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $42^{\mathbf{4}}$, $49^{\mathbf{2}}$, \textcolor{fullblue}{$196/3^{\mathbf{96}}$}, $\infty^{\mathbf{18}}$ \\ 
+ \hline 
+123 &  & $105/2^{\mathbf{2}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $105/2^{\mathbf{2}}$, $56^{\mathbf{3}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $105/2^{\mathbf{4}}$, $56^{\mathbf{3}}$, \textcolor{fullblue}{$70^{\mathbf{109}}$}, $\infty^{\mathbf{19}}$ \\ 
+ \hline 
+130 &  & $56^{\mathbf{1}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $56^{\mathbf{4}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $56^{\mathbf{5}}$, $63^{\mathbf{2}}$, \textcolor{fullblue}{$224/3^{\mathbf{120}}$}, $\infty^{\mathbf{23}}$ \\ 
+ \hline 
+137 &  & $133/2^{\mathbf{2}}$, $\infty^{\mathbf{11}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $28^{\mathbf{1}}$, $133/2^{\mathbf{2}}$, $70^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $28^{\mathbf{1}}$, $133/2^{\mathbf{4}}$, $70^{\mathbf{2}}$, \textcolor{fullblue}{$238/3^{\mathbf{132}}$}, $\infty^{\mathbf{28}}$ \\ 
+ \hline 
+144 &  & $70^{\mathbf{1}}$, $77^{\mathbf{1}}$, $\infty^{\mathbf{13}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $28^{\mathbf{1}}$, $70^{\mathbf{3}}$, $77^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $28^{\mathbf{1}}$, $70^{\mathbf{4}}$, $77^{\mathbf{2}}$, \textcolor{fullblue}{$84^{\mathbf{145}}$}, $\infty^{\mathbf{33}}$ \\ 
+ \hline 
+151 &  & $161/2^{\mathbf{2}}$, $\infty^{\mathbf{15}}$ & $14^{\mathbf{1}}$, $35/2^{\mathbf{4}}$, $28^{\mathbf{2}}$, $161/2^{\mathbf{2}}$, $84^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $14^{\mathbf{1}}$, $35/2^{\mathbf{4}}$, $28^{\mathbf{2}}$, $161/2^{\mathbf{4}}$, $84^{\mathbf{1}}$, \textcolor{fullblue}{$266/3^{\mathbf{159}}$}, $\infty^{\mathbf{39}}$ \\ 
+ \hline 
+158 &  & $84^{\mathbf{1}}$, $91^{\mathbf{1}}$, $\infty^{\mathbf{17}}$ & $21^{\mathbf{2}}$, $28^{\mathbf{3}}$, $35^{\mathbf{4}}$, $84^{\mathbf{2}}$, $91^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $21^{\mathbf{2}}$, $28^{\mathbf{3}}$, $35^{\mathbf{4}}$, $84^{\mathbf{3}}$, $91^{\mathbf{2}}$, \textcolor{fullblue}{$280/3^{\mathbf{174}}$}, $\infty^{\mathbf{43}}$ \\ 
+ \hline 
+165 &  & $189/2^{\mathbf{2}}$, $\infty^{\mathbf{19}}$ & $28^{\mathbf{1}}$, $98/3^{\mathbf{6}}$, $42^{\mathbf{2}}$, $56^{\mathbf{2}}$, $189/2^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $28^{\mathbf{1}}$, $98/3^{\mathbf{6}}$, $42^{\mathbf{2}}$, $56^{\mathbf{2}}$, $189/2^{\mathbf{4}}$, \textcolor{fullblue}{$98^{\mathbf{190}}$}, $\infty^{\mathbf{48}}$ \\ 
+ \hline 
+172 &  & $77^{\mathbf{2}}$, $98^{\mathbf{1}}$, $\infty^{\mathbf{20}}$ & $112/3^{\mathbf{6}}$, $42^{\mathbf{4}}$, $56^{\mathbf{2}}$, $77^{\mathbf{2}}$, $98^{\mathbf{1}}$, $\infty^{\mathbf{8}}$ & $112/3^{\mathbf{6}}$, $42^{\mathbf{4}}$, $56^{\mathbf{2}}$, $77^{\mathbf{4}}$, $98^{\mathbf{2}}$, \textcolor{fullblue}{$308/3^{\mathbf{207}}$}, $\infty^{\mathbf{51}}$ \\ 
+ \hline 
+0 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+7 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+14 &  & $7^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ \\ 
+ \hline 
+21 &  & $21/2^{\mathbf{2}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $21/2^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $21/2^{\mathbf{4}}$, \textcolor{fullblue}{$14^{\mathbf{1}}$}, $\infty^{\mathbf{4}}$ \\ 
+ \hline 
+28 &  & $14^{\mathbf{3}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{6}}$, \textcolor{fullblue}{$56/3^{\mathbf{3}}$}, $\infty^{\mathbf{5}}$ \\ 
+ \hline 
+35 &  & $35/2^{\mathbf{4}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $35/2^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $35/2^{\mathbf{8}}$, \textcolor{fullblue}{$70/3^{\mathbf{6}}$}, $\infty^{\mathbf{6}}$ \\ 
+ \hline 
+42 &  & $21^{\mathbf{5}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{10}}$, \textcolor{fullblue}{$28^{\mathbf{10}}$}, $\infty^{\mathbf{7}}$ \\ 
+ \hline 
+49 &  & $49/2^{\mathbf{6}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $49/2^{\mathbf{6}}$ & $0^{\mathbf{1}}$, $49/2^{\mathbf{12}}$, \textcolor{fullblue}{$98/3^{\mathbf{15}}$}, $\infty^{\mathbf{8}}$ \\ 
+ \hline 
+56 &  & $28^{\mathbf{7}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{14}}$, \textcolor{fullblue}{$112/3^{\mathbf{21}}$}, $\infty^{\mathbf{9}}$ \\ 
+ \hline 
+63 &  & $63/2^{\mathbf{8}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $63/2^{\mathbf{8}}$ & $0^{\mathbf{1}}$, $63/2^{\mathbf{16}}$, \textcolor{fullblue}{$42^{\mathbf{28}}$}, $\infty^{\mathbf{10}}$ \\ 
+ \hline 
+70 & $7^{\mathbf{1}}$ & $7^{\mathbf{1}}$, $35^{\mathbf{7}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $35^{\mathbf{7}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $35^{\mathbf{14}}$, \textcolor{fullblue}{$140/3^{\mathbf{36}}$}, $\infty^{\mathbf{13}}$ \\ 
+ \hline 
+77 & $14^{\mathbf{1}}$ & $14^{\mathbf{1}}$, $77/2^{\mathbf{8}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, $77/2^{\mathbf{8}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, $77/2^{\mathbf{16}}$, \textcolor{fullblue}{$154/3^{\mathbf{42}}$}, $\infty^{\mathbf{16}}$ \\ 
+ \hline 
+84 & $21^{\mathbf{1}}$ & $21^{\mathbf{1}}$, $42^{\mathbf{9}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{4}}$, $42^{\mathbf{9}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{4}}$, $42^{\mathbf{18}}$, \textcolor{fullblue}{$56^{\mathbf{49}}$}, $\infty^{\mathbf{19}}$ \\ 
+ \hline 
+91 & $28^{\mathbf{1}}$ & $28^{\mathbf{1}}$, $91/2^{\mathbf{10}}$, $\infty^{\mathbf{6}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{5}}$, $91/2^{\mathbf{10}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{5}}$, $91/2^{\mathbf{20}}$, \textcolor{fullblue}{$182/3^{\mathbf{57}}$}, $\infty^{\mathbf{22}}$ \\ 
+ \hline 
+98 & $35^{\mathbf{1}}$ & $35^{\mathbf{1}}$, $49^{\mathbf{11}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $35^{\mathbf{6}}$, $49^{\mathbf{11}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $35^{\mathbf{6}}$, $49^{\mathbf{22}}$, \textcolor{fullblue}{$196/3^{\mathbf{66}}$}, $\infty^{\mathbf{25}}$ \\ 
+ \hline 
+105 & $42^{\mathbf{1}}$ & $42^{\mathbf{1}}$, $105/2^{\mathbf{12}}$, $\infty^{\mathbf{8}}$ & $0^{\mathbf{1}}$, $42^{\mathbf{7}}$, $105/2^{\mathbf{12}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $42^{\mathbf{7}}$, $105/2^{\mathbf{24}}$, \textcolor{fullblue}{$70^{\mathbf{76}}$}, $\infty^{\mathbf{28}}$ \\ 
+ \hline 
+112 & $49^{\mathbf{1}}$ & $49^{\mathbf{1}}$, $56^{\mathbf{13}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $49^{\mathbf{8}}$, $56^{\mathbf{13}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $49^{\mathbf{8}}$, $56^{\mathbf{26}}$, \textcolor{fullblue}{$224/3^{\mathbf{87}}$}, $\infty^{\mathbf{31}}$ \\ 
+ \hline 
+119 & $56^{\mathbf{1}}$ & $56^{\mathbf{1}}$, $119/2^{\mathbf{14}}$, $\infty^{\mathbf{10}}$ & $0^{\mathbf{1}}$, $56^{\mathbf{9}}$, $119/2^{\mathbf{14}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $56^{\mathbf{9}}$, $119/2^{\mathbf{28}}$, \textcolor{fullblue}{$238/3^{\mathbf{99}}$}, $\infty^{\mathbf{34}}$ \\ 
+ \hline 
+126 & $7^{\mathbf{1}}$ & $7^{\mathbf{1}}$, $63^{\mathbf{15}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $63^{\mathbf{23}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $63^{\mathbf{38}}$, \textcolor{fullblue}{$84^{\mathbf{112}}$}, $\infty^{\mathbf{37}}$ \\ 
+ \hline 
+133 & $21/2^{\mathbf{2}}$ & $21/2^{\mathbf{2}}$, $133/2^{\mathbf{14}}$, $70^{\mathbf{1}}$, $\infty^{\mathbf{13}}$ & $0^{\mathbf{1}}$, $21/2^{\mathbf{4}}$, $14^{\mathbf{1}}$, $133/2^{\mathbf{14}}$, $70^{\mathbf{8}}$, $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $21/2^{\mathbf{4}}$, $14^{\mathbf{1}}$, $133/2^{\mathbf{28}}$, $70^{\mathbf{9}}$, \textcolor{fullblue}{$266/3^{\mathbf{126}}$}, $\infty^{\mathbf{41}}$ \\ 
+ \hline 
+140 & $14^{\mathbf{1}}$, $21^{\mathbf{1}}$ & $14^{\mathbf{1}}$, $21^{\mathbf{1}}$, $70^{\mathbf{15}}$, $77^{\mathbf{1}}$, $\infty^{\mathbf{15}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{2}}$, $56/3^{\mathbf{3}}$, $21^{\mathbf{2}}$, $70^{\mathbf{15}}$, $77^{\mathbf{7}}$, $140^{\mathbf{1}}$, $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{2}}$, $56/3^{\mathbf{3}}$, $21^{\mathbf{2}}$, $70^{\mathbf{30}}$, $77^{\mathbf{8}}$, \textcolor{fullblue}{$280/3^{\mathbf{138}}$}, $140^{\mathbf{1}}$, $\infty^{\mathbf{46}}$ \\ 
+ \hline 
+147 & $49/2^{\mathbf{2}}$ & $49/2^{\mathbf{2}}$, $147/2^{\mathbf{16}}$, $84^{\mathbf{1}}$, $\infty^{\mathbf{17}}$ & $0^{\mathbf{1}}$, $70/3^{\mathbf{3}}$, $49/2^{\mathbf{4}}$, $28^{\mathbf{2}}$, $147/2^{\mathbf{16}}$, $84^{\mathbf{6}}$, $140^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $70/3^{\mathbf{3}}$, $49/2^{\mathbf{4}}$, $28^{\mathbf{2}}$, $147/2^{\mathbf{32}}$, $84^{\mathbf{7}}$, \textcolor{fullblue}{$98^{\mathbf{151}}$}, $140^{\mathbf{1}}$, $\infty^{\mathbf{52}}$ \\ 
+ \hline 
+154 & $28^{\mathbf{1}}$, $35^{\mathbf{1}}$ & $28^{\mathbf{1}}$, $35^{\mathbf{1}}$, $77^{\mathbf{17}}$, $91^{\mathbf{1}}$, $\infty^{\mathbf{19}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $98/3^{\mathbf{6}}$, $35^{\mathbf{2}}$, $77^{\mathbf{17}}$, $91^{\mathbf{5}}$, $154^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $98/3^{\mathbf{6}}$, $35^{\mathbf{2}}$, $77^{\mathbf{34}}$, $91^{\mathbf{6}}$, \textcolor{fullblue}{$308/3^{\mathbf{165}}$}, $154^{\mathbf{2}}$, $\infty^{\mathbf{57}}$ \\ 
+ \hline 
+161 & $77/2^{\mathbf{2}}$ & $77/2^{\mathbf{2}}$, $161/2^{\mathbf{18}}$, $98^{\mathbf{1}}$, $\infty^{\mathbf{21}}$ & $0^{\mathbf{1}}$, $112/3^{\mathbf{6}}$, $77/2^{\mathbf{4}}$, $42^{\mathbf{3}}$, $161/2^{\mathbf{18}}$, $98^{\mathbf{4}}$, $154^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $112/3^{\mathbf{6}}$, $77/2^{\mathbf{4}}$, $42^{\mathbf{3}}$, $161/2^{\mathbf{36}}$, $98^{\mathbf{5}}$, \textcolor{fullblue}{$322/3^{\mathbf{180}}$}, $154^{\mathbf{2}}$, $\infty^{\mathbf{63}}$ \\ 
+ \hline 
+168 & $42^{\mathbf{1}}$, $49^{\mathbf{1}}$ & $42^{\mathbf{1}}$, $49^{\mathbf{1}}$, $84^{\mathbf{19}}$, $105^{\mathbf{1}}$, $\infty^{\mathbf{23}}$ & $0^{\mathbf{1}}$, $42^{\mathbf{4}}$, $140/3^{\mathbf{9}}$, $49^{\mathbf{2}}$, $84^{\mathbf{19}}$, $105^{\mathbf{3}}$, $168^{\mathbf{3}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $42^{\mathbf{4}}$, $140/3^{\mathbf{9}}$, $49^{\mathbf{2}}$, $84^{\mathbf{38}}$, $105^{\mathbf{4}}$, \textcolor{fullblue}{$112^{\mathbf{196}}$}, $168^{\mathbf{3}}$, $\infty^{\mathbf{68}}$ \\ 
+ \hline 
+175 & $105/2^{\mathbf{2}}$ & $105/2^{\mathbf{2}}$, $175/2^{\mathbf{20}}$, $112^{\mathbf{1}}$, $\infty^{\mathbf{25}}$ & $0^{\mathbf{1}}$, $154/3^{\mathbf{9}}$, $105/2^{\mathbf{4}}$, $56^{\mathbf{4}}$, $175/2^{\mathbf{20}}$, $112^{\mathbf{2}}$, $168^{\mathbf{3}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $154/3^{\mathbf{9}}$, $105/2^{\mathbf{4}}$, $56^{\mathbf{4}}$, $175/2^{\mathbf{40}}$, $112^{\mathbf{3}}$, \textcolor{fullblue}{$350/3^{\mathbf{213}}$}, $168^{\mathbf{3}}$, $\infty^{\mathbf{74}}$ \\ 
+ \hline 
+3 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+10 &  &  &  & \textcolor{fullblue}{$14/3^{\mathbf{3}}$} \\ 
+ \hline 
+17 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$28/3^{\mathbf{3}}$}, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+24 &  & $\infty^{\mathbf{2}}$ & $7^{\mathbf{2}}$ & $7^{\mathbf{2}}$, \textcolor{fullblue}{$14^{\mathbf{4}}$}, $\infty^{\mathbf{4}}$ \\ 
+ \hline 
+31 &  & $14^{\mathbf{1}}$, $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, \textcolor{fullblue}{$56/3^{\mathbf{6}}$}, $\infty^{\mathbf{5}}$ \\ 
+ \hline 
+38 &  & $21^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $7^{\mathbf{2}}$, $21^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $7^{\mathbf{2}}$, $21^{\mathbf{2}}$, \textcolor{fullblue}{$70/3^{\mathbf{9}}$}, $\infty^{\mathbf{8}}$ \\ 
+ \hline 
+45 &  & $21^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $21^{\mathbf{2}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $21^{\mathbf{4}}$, \textcolor{fullblue}{$28^{\mathbf{13}}$}, $\infty^{\mathbf{9}}$ \\ 
+ \hline 
+52 &  & $28^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $7^{\mathbf{2}}$, $28^{\mathbf{2}}$, $\infty^{\mathbf{2}}$ & $7^{\mathbf{2}}$, $28^{\mathbf{4}}$, \textcolor{fullblue}{$98/3^{\mathbf{18}}$}, $\infty^{\mathbf{12}}$ \\ 
+ \hline 
+59 &  & $28^{\mathbf{3}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $28^{\mathbf{3}}$, $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $28^{\mathbf{6}}$, \textcolor{fullblue}{$112/3^{\mathbf{24}}$}, $\infty^{\mathbf{13}}$ \\ 
+ \hline 
+66 &  & $35^{\mathbf{3}}$, $\infty^{\mathbf{5}}$ & $7^{\mathbf{2}}$, $35^{\mathbf{3}}$, $\infty^{\mathbf{3}}$ & $7^{\mathbf{2}}$, $35^{\mathbf{6}}$, \textcolor{fullblue}{$42^{\mathbf{31}}$}, $\infty^{\mathbf{16}}$ \\ 
+ \hline 
+73 &  & $35^{\mathbf{4}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $35^{\mathbf{4}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $35^{\mathbf{8}}$, \textcolor{fullblue}{$140/3^{\mathbf{39}}$}, $\infty^{\mathbf{17}}$ \\ 
+ \hline 
+80 &  & $42^{\mathbf{4}}$, $\infty^{\mathbf{7}}$ & $14/3^{\mathbf{3}}$, $42^{\mathbf{4}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $14/3^{\mathbf{3}}$, $42^{\mathbf{8}}$, \textcolor{fullblue}{$154/3^{\mathbf{45}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{21}}$ \\ 
+ \hline 
+87 &  & $42^{\mathbf{5}}$, $\infty^{\mathbf{8}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $42^{\mathbf{5}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $42^{\mathbf{10}}$, \textcolor{fullblue}{$56^{\mathbf{52}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{24}}$ \\ 
+ \hline 
+94 &  & $189/4^{\mathbf{4}}$, $49^{\mathbf{3}}$, $\infty^{\mathbf{8}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $189/4^{\mathbf{4}}$, $49^{\mathbf{3}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $189/4^{\mathbf{8}}$, $49^{\mathbf{6}}$, \textcolor{fullblue}{$182/3^{\mathbf{60}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{26}}$ \\ 
+ \hline 
+101 &  & $49^{\mathbf{6}}$, $105/2^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $49^{\mathbf{6}}$, $105/2^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $49^{\mathbf{12}}$, $105/2^{\mathbf{4}}$, \textcolor{fullblue}{$196/3^{\mathbf{69}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{30}}$ \\ 
+ \hline 
+108 &  & $217/4^{\mathbf{8}}$, $56^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $217/4^{\mathbf{8}}$, $56^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $217/4^{\mathbf{16}}$, $56^{\mathbf{4}}$, \textcolor{fullblue}{$70^{\mathbf{79}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{32}}$ \\ 
+ \hline 
+115 &  & $56^{\mathbf{7}}$, $119/2^{\mathbf{4}}$, $\infty^{\mathbf{10}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $56^{\mathbf{7}}$, $119/2^{\mathbf{4}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $56^{\mathbf{14}}$, $119/2^{\mathbf{8}}$, \textcolor{fullblue}{$224/3^{\mathbf{90}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{36}}$ \\ 
+ \hline 
+122 &  & $245/4^{\mathbf{12}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{10}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $245/4^{\mathbf{12}}$, $63^{\mathbf{1}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $245/4^{\mathbf{24}}$, $63^{\mathbf{2}}$, \textcolor{fullblue}{$238/3^{\mathbf{102}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{38}}$ \\ 
+ \hline 
+129 &  & $63^{\mathbf{8}}$, $133/2^{\mathbf{6}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $63^{\mathbf{8}}$, $133/2^{\mathbf{6}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{6}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $63^{\mathbf{16}}$, $133/2^{\mathbf{12}}$, \textcolor{fullblue}{$84^{\mathbf{115}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{42}}$ \\ 
+ \hline 
+136 &  & $273/4^{\mathbf{16}}$, $\infty^{\mathbf{11}}$ & $7^{\mathbf{2}}$, $14^{\mathbf{1}}$, $63^{\mathbf{2}}$, $273/4^{\mathbf{16}}$, $\infty^{\mathbf{6}}$ & $7^{\mathbf{2}}$, $14^{\mathbf{1}}$, $63^{\mathbf{2}}$, $273/4^{\mathbf{32}}$, \textcolor{fullblue}{$266/3^{\mathbf{129}}$}, $\infty^{\mathbf{44}}$ \\ 
+ \hline 
+143 & $14^{\mathbf{1}}$ & $14^{\mathbf{1}}$, $70^{\mathbf{7}}$, $147/2^{\mathbf{8}}$, $\infty^{\mathbf{14}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, $133/2^{\mathbf{4}}$, $70^{\mathbf{7}}$, $147/2^{\mathbf{8}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, $133/2^{\mathbf{4}}$, $70^{\mathbf{14}}$, $147/2^{\mathbf{16}}$, \textcolor{fullblue}{$280/3^{\mathbf{144}}$}, $\infty^{\mathbf{49}}$ \\ 
+ \hline 
+150 & $21^{\mathbf{1}}$ & $21^{\mathbf{1}}$, $224/3^{\mathbf{3}}$, $301/4^{\mathbf{12}}$, $133^{\mathbf{1}}$, $\infty^{\mathbf{16}}$ & $7^{\mathbf{2}}$, $21^{\mathbf{4}}$, $63^{\mathbf{2}}$, $70^{\mathbf{2}}$, $224/3^{\mathbf{3}}$, $301/4^{\mathbf{12}}$, $133^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $7^{\mathbf{2}}$, $21^{\mathbf{4}}$, $63^{\mathbf{2}}$, $70^{\mathbf{2}}$, $224/3^{\mathbf{6}}$, $301/4^{\mathbf{24}}$, \textcolor{fullblue}{$98^{\mathbf{157}}$}, $133^{\mathbf{2}}$, $\infty^{\mathbf{54}}$ \\ 
+ \hline 
+157 & $28^{\mathbf{1}}$ & $28^{\mathbf{1}}$, $77^{\mathbf{8}}$, $238/3^{\mathbf{3}}$, $161/2^{\mathbf{6}}$, $140^{\mathbf{1}}$, $\infty^{\mathbf{17}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $28^{\mathbf{5}}$, $133/2^{\mathbf{4}}$, $77^{\mathbf{8}}$, $238/3^{\mathbf{3}}$, $161/2^{\mathbf{6}}$, $140^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $28^{\mathbf{5}}$, $133/2^{\mathbf{4}}$, $77^{\mathbf{16}}$, $238/3^{\mathbf{6}}$, $161/2^{\mathbf{12}}$, \textcolor{fullblue}{$308/3^{\mathbf{171}}$}, $140^{\mathbf{2}}$, $\infty^{\mathbf{58}}$ \\ 
+ \hline 
+164 & $35^{\mathbf{1}}$ & $35^{\mathbf{1}}$, $245/3^{\mathbf{6}}$, $329/4^{\mathbf{8}}$, $84^{\mathbf{3}}$, $140^{\mathbf{2}}$, $\infty^{\mathbf{19}}$ & $7^{\mathbf{2}}$, $35^{\mathbf{6}}$, $63^{\mathbf{2}}$, $70^{\mathbf{2}}$, $245/3^{\mathbf{6}}$, $329/4^{\mathbf{8}}$, $84^{\mathbf{3}}$, $140^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $7^{\mathbf{2}}$, $35^{\mathbf{6}}$, $63^{\mathbf{2}}$, $70^{\mathbf{2}}$, $245/3^{\mathbf{12}}$, $329/4^{\mathbf{16}}$, $84^{\mathbf{6}}$, \textcolor{fullblue}{$322/3^{\mathbf{186}}$}, $140^{\mathbf{4}}$, $\infty^{\mathbf{64}}$ \\ 
+ \hline 
+171 & $42^{\mathbf{1}}$ & $42^{\mathbf{1}}$, $84^{\mathbf{9}}$, $259/3^{\mathbf{6}}$, $175/2^{\mathbf{4}}$, $147^{\mathbf{2}}$, $\infty^{\mathbf{20}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $42^{\mathbf{7}}$, $133/2^{\mathbf{4}}$, $84^{\mathbf{9}}$, $259/3^{\mathbf{6}}$, $175/2^{\mathbf{4}}$, $147^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $42^{\mathbf{7}}$, $133/2^{\mathbf{4}}$, $84^{\mathbf{18}}$, $259/3^{\mathbf{12}}$, $175/2^{\mathbf{8}}$, \textcolor{fullblue}{$112^{\mathbf{202}}$}, $147^{\mathbf{4}}$, $\infty^{\mathbf{68}}$ \\ 
+ \hline 
+6 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+13 &  &  &  & \textcolor{fullblue}{$14/3^{\mathbf{3}}$} \\ 
+ \hline 
+20 &  &  &  & \textcolor{fullblue}{$28/3^{\mathbf{6}}$} \\ 
+ \hline 
+27 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$14^{\mathbf{7}}$}, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+34 &  & $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$56/3^{\mathbf{9}}$}, $\infty^{\mathbf{5}}$ \\ 
+ \hline 
+41 &  & $\infty^{\mathbf{3}}$ & $14^{\mathbf{2}}$, $\infty^{\mathbf{1}}$ & $14^{\mathbf{2}}$, \textcolor{fullblue}{$70/3^{\mathbf{12}}$}, $\infty^{\mathbf{7}}$ \\ 
+ \hline 
+48 &  & $21^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $14^{\mathbf{2}}$, $21^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $14^{\mathbf{2}}$, $21^{\mathbf{2}}$, \textcolor{fullblue}{$28^{\mathbf{16}}$}, $\infty^{\mathbf{8}}$ \\ 
+ \hline 
+55 &  & $49/2^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $49/2^{\mathbf{2}}$, $28^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $49/2^{\mathbf{4}}$, $28^{\mathbf{1}}$, \textcolor{fullblue}{$98/3^{\mathbf{21}}$}, $\infty^{\mathbf{9}}$ \\ 
+ \hline 
+62 &  & $28^{\mathbf{1}}$, $35^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{2}}$, $35^{\mathbf{1}}$, $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $35^{\mathbf{2}}$, \textcolor{fullblue}{$112/3^{\mathbf{27}}$}, $\infty^{\mathbf{12}}$ \\ 
+ \hline 
+69 &  & $77/2^{\mathbf{2}}$, $\infty^{\mathbf{5}}$ & $14^{\mathbf{2}}$, $77/2^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $14^{\mathbf{2}}$, $77/2^{\mathbf{4}}$, \textcolor{fullblue}{$42^{\mathbf{34}}$}, $\infty^{\mathbf{15}}$ \\ 
+ \hline 
+76 &  & $35^{\mathbf{2}}$, $42^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $14^{\mathbf{2}}$, $35^{\mathbf{2}}$, $42^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $14^{\mathbf{2}}$, $35^{\mathbf{4}}$, $42^{\mathbf{2}}$, \textcolor{fullblue}{$140/3^{\mathbf{42}}$}, $\infty^{\mathbf{16}}$ \\ 
+ \hline 
+83 &  & $77/2^{\mathbf{4}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{1}}$, $77/2^{\mathbf{4}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{1}}$, $77/2^{\mathbf{8}}$, \textcolor{fullblue}{$154/3^{\mathbf{51}}$}, $\infty^{\mathbf{17}}$ \\ 
+ \hline 
+90 &  & $42^{\mathbf{2}}$, $49^{\mathbf{2}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $28^{\mathbf{1}}$, $42^{\mathbf{2}}$, $49^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $28^{\mathbf{1}}$, $42^{\mathbf{4}}$, $49^{\mathbf{4}}$, \textcolor{fullblue}{$56^{\mathbf{58}}$}, $\infty^{\mathbf{21}}$ \\ 
+ \hline 
+97 &  & $105/2^{\mathbf{4}}$, $\infty^{\mathbf{9}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $28^{\mathbf{1}}$, $105/2^{\mathbf{4}}$, $\infty^{\mathbf{4}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $28^{\mathbf{1}}$, $105/2^{\mathbf{8}}$, \textcolor{fullblue}{$182/3^{\mathbf{66}}$}, $\infty^{\mathbf{26}}$ \\ 
+ \hline 
+104 &  & $49^{\mathbf{3}}$, $56^{\mathbf{2}}$, $\infty^{\mathbf{10}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $28^{\mathbf{1}}$, $49^{\mathbf{3}}$, $56^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $28^{\mathbf{1}}$, $49^{\mathbf{6}}$, $56^{\mathbf{4}}$, \textcolor{fullblue}{$196/3^{\mathbf{75}}$}, $\infty^{\mathbf{29}}$ \\ 
+ \hline 
+111 &  & $105/2^{\mathbf{6}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $35/2^{\mathbf{4}}$, $105/2^{\mathbf{6}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $35/2^{\mathbf{4}}$, $105/2^{\mathbf{12}}$, \textcolor{fullblue}{$70^{\mathbf{85}}$}, $\infty^{\mathbf{33}}$ \\ 
+ \hline 
+118 &  & $56^{\mathbf{3}}$, $119/2^{\mathbf{4}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $21^{\mathbf{2}}$, $28^{\mathbf{1}}$, $56^{\mathbf{3}}$, $119/2^{\mathbf{4}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $21^{\mathbf{2}}$, $28^{\mathbf{1}}$, $56^{\mathbf{6}}$, $119/2^{\mathbf{8}}$, $63^{\mathbf{2}}$, \textcolor{fullblue}{$224/3^{\mathbf{96}}$}, $\infty^{\mathbf{35}}$ \\ 
+ \hline 
+125 &  & $63^{\mathbf{4}}$, $133/2^{\mathbf{4}}$, $\infty^{\mathbf{13}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $28^{\mathbf{2}}$, $63^{\mathbf{4}}$, $133/2^{\mathbf{4}}$, $\infty^{\mathbf{7}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $28^{\mathbf{2}}$, $63^{\mathbf{8}}$, $133/2^{\mathbf{8}}$, \textcolor{fullblue}{$238/3^{\mathbf{108}}$}, $\infty^{\mathbf{41}}$ \\ 
+ \hline 
+132 &  & $63^{\mathbf{4}}$, $70^{\mathbf{5}}$, $\infty^{\mathbf{14}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $28^{\mathbf{1}}$, $63^{\mathbf{4}}$, $70^{\mathbf{5}}$, $\infty^{\mathbf{8}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $28^{\mathbf{1}}$, $63^{\mathbf{8}}$, $70^{\mathbf{10}}$, \textcolor{fullblue}{$84^{\mathbf{121}}$}, $\infty^{\mathbf{45}}$ \\ 
+ \hline 
+139 &  & $133/2^{\mathbf{8}}$, $147/2^{\mathbf{2}}$, $\infty^{\mathbf{15}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $35/2^{\mathbf{4}}$, $133/2^{\mathbf{8}}$, $147/2^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $35/2^{\mathbf{4}}$, $133/2^{\mathbf{16}}$, $147/2^{\mathbf{4}}$, \textcolor{fullblue}{$266/3^{\mathbf{135}}$}, $\infty^{\mathbf{49}}$ \\ 
+ \hline 
+146 &  & $70^{\mathbf{4}}$, $147/2^{\mathbf{8}}$, $\infty^{\mathbf{15}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{2}}$, $28^{\mathbf{1}}$, $63^{\mathbf{2}}$, $70^{\mathbf{4}}$, $147/2^{\mathbf{8}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{2}}$, $28^{\mathbf{1}}$, $63^{\mathbf{2}}$, $70^{\mathbf{8}}$, $147/2^{\mathbf{16}}$, \textcolor{fullblue}{$280/3^{\mathbf{150}}$}, $\infty^{\mathbf{51}}$ \\ 
+ \hline 
+153 &  & $77^{\mathbf{8}}$, $161/2^{\mathbf{4}}$, $\infty^{\mathbf{18}}$ & $28/3^{\mathbf{3}}$, $28^{\mathbf{1}}$, $70^{\mathbf{4}}$, $77^{\mathbf{8}}$, $161/2^{\mathbf{4}}$, $252^{\mathbf{1}}$, $\infty^{\mathbf{9}}$ & $28/3^{\mathbf{3}}$, $28^{\mathbf{1}}$, $70^{\mathbf{4}}$, $77^{\mathbf{16}}$, $161/2^{\mathbf{8}}$, \textcolor{fullblue}{$98^{\mathbf{163}}$}, $252^{\mathbf{1}}$, $\infty^{\mathbf{57}}$ \\ 
+ \hline 
+160 &  & $77^{\mathbf{5}}$, $84^{\mathbf{8}}$, $\infty^{\mathbf{20}}$ & $28/3^{\mathbf{3}}$, $70^{\mathbf{4}}$, $77^{\mathbf{7}}$, $84^{\mathbf{8}}$, $252^{\mathbf{1}}$, $\infty^{\mathbf{10}}$ & $28/3^{\mathbf{3}}$, $70^{\mathbf{4}}$, $77^{\mathbf{12}}$, $84^{\mathbf{16}}$, \textcolor{fullblue}{$308/3^{\mathbf{177}}$}, $252^{\mathbf{1}}$, $\infty^{\mathbf{63}}$ \\ 
+ \hline 
+167 &  & $161/2^{\mathbf{10}}$, $84^{\mathbf{1}}$, $175/2^{\mathbf{4}}$, $\infty^{\mathbf{21}}$ & $0^{\mathbf{1}}$, $56/3^{\mathbf{3}}$, $70^{\mathbf{2}}$, $77^{\mathbf{4}}$, $161/2^{\mathbf{10}}$, $84^{\mathbf{1}}$, $175/2^{\mathbf{4}}$, $252^{\mathbf{1}}$, $\infty^{\mathbf{10}}$ & $0^{\mathbf{1}}$, $56/3^{\mathbf{3}}$, $70^{\mathbf{2}}$, $77^{\mathbf{4}}$, $161/2^{\mathbf{20}}$, $84^{\mathbf{2}}$, $175/2^{\mathbf{8}}$, \textcolor{fullblue}{$322/3^{\mathbf{192}}$}, $252^{\mathbf{1}}$, $\infty^{\mathbf{67}}$ \\ 
+ \hline 
+174 &  & $84^{\mathbf{5}}$, $343/4^{\mathbf{4}}$, $175/2^{\mathbf{8}}$, $\infty^{\mathbf{22}}$ & $0^{\mathbf{1}}$, $56/3^{\mathbf{3}}$, $63^{\mathbf{2}}$, $77^{\mathbf{4}}$, $84^{\mathbf{5}}$, $343/4^{\mathbf{4}}$, $175/2^{\mathbf{8}}$, $252^{\mathbf{1}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $56/3^{\mathbf{3}}$, $63^{\mathbf{2}}$, $77^{\mathbf{4}}$, $84^{\mathbf{10}}$, $343/4^{\mathbf{8}}$, $175/2^{\mathbf{16}}$, \textcolor{fullblue}{$112^{\mathbf{208}}$}, $252^{\mathbf{1}}$, $\infty^{\mathbf{72}}$ \\ 
+ \hline 
+2 &  &  &  &  \\ 
+ \hline 
+9 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+16 &  &  &  & \textcolor{fullblue}{$14/3^{\mathbf{3}}$} \\ 
+ \hline 
+23 &  &  &  & \textcolor{fullblue}{$28/3^{\mathbf{6}}$} \\ 
+ \hline 
+30 &  &  &  & \textcolor{fullblue}{$14^{\mathbf{10}}$} \\ 
+ \hline 
+37 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$56/3^{\mathbf{12}}$}, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+44 &  & $\infty^{\mathbf{2}}$ & $7^{\mathbf{2}}$ & $7^{\mathbf{2}}$, \textcolor{fullblue}{$70/3^{\mathbf{15}}$}, $\infty^{\mathbf{4}}$ \\ 
+ \hline 
+51 &  & $\infty^{\mathbf{3}}$ & $14^{\mathbf{3}}$ & $14^{\mathbf{3}}$, \textcolor{fullblue}{$28^{\mathbf{19}}$}, $\infty^{\mathbf{6}}$ \\ 
+ \hline 
+58 &  & $\infty^{\mathbf{4}}$ & $21^{\mathbf{4}}$ & $21^{\mathbf{4}}$, \textcolor{fullblue}{$98/3^{\mathbf{24}}$}, $\infty^{\mathbf{8}}$ \\ 
+ \hline 
+65 &  & $28^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{5}}$, \textcolor{fullblue}{$112/3^{\mathbf{30}}$}, $\infty^{\mathbf{9}}$ \\ 
+ \hline 
+72 &  & $35^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $7^{\mathbf{2}}$, $35^{\mathbf{3}}$, $\infty^{\mathbf{1}}$ & $7^{\mathbf{2}}$, $35^{\mathbf{4}}$, \textcolor{fullblue}{$42^{\mathbf{37}}$}, $\infty^{\mathbf{12}}$ \\ 
+ \hline 
+79 &  & $42^{\mathbf{1}}$, $\infty^{\mathbf{6}}$ & $14^{\mathbf{3}}$, $42^{\mathbf{2}}$, $\infty^{\mathbf{2}}$ & $14^{\mathbf{3}}$, $42^{\mathbf{3}}$, \textcolor{fullblue}{$140/3^{\mathbf{45}}$}, $\infty^{\mathbf{15}}$ \\ 
+ \hline 
+86 &  & $49^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $21^{\mathbf{4}}$, $49^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $21^{\mathbf{4}}$, $49^{\mathbf{2}}$, \textcolor{fullblue}{$154/3^{\mathbf{54}}$}, $\infty^{\mathbf{18}}$ \\ 
+ \hline 
+93 &  & $42^{\mathbf{2}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $42^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $42^{\mathbf{4}}$, \textcolor{fullblue}{$56^{\mathbf{64}}$}, $\infty^{\mathbf{19}}$ \\ 
+ \hline 
+100 &  & $49^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $14/3^{\mathbf{3}}$, $35^{\mathbf{2}}$, $49^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $14/3^{\mathbf{3}}$, $35^{\mathbf{2}}$, $49^{\mathbf{4}}$, \textcolor{fullblue}{$182/3^{\mathbf{72}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{23}}$ \\ 
+ \hline 
+107 &  & $56^{\mathbf{2}}$, $\infty^{\mathbf{11}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $42^{\mathbf{1}}$, $56^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $42^{\mathbf{1}}$, $56^{\mathbf{4}}$, \textcolor{fullblue}{$196/3^{\mathbf{81}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{28}}$ \\ 
+ \hline 
+114 &  & $63^{\mathbf{2}}$, $\infty^{\mathbf{13}}$ & $14^{\mathbf{1}}$, $56/3^{\mathbf{6}}$, $63^{\mathbf{2}}$, $140^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $14^{\mathbf{1}}$, $56/3^{\mathbf{6}}$, $63^{\mathbf{4}}$, \textcolor{fullblue}{$70^{\mathbf{91}}$}, $140^{\mathbf{2}}$, $\infty^{\mathbf{32}}$ \\ 
+ \hline 
+121 &  & $56^{\mathbf{3}}$, $\infty^{\mathbf{14}}$ & $0^{\mathbf{1}}$, $70/3^{\mathbf{6}}$, $28^{\mathbf{1}}$, $56^{\mathbf{3}}$, $140^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $70/3^{\mathbf{6}}$, $28^{\mathbf{1}}$, $56^{\mathbf{6}}$, \textcolor{fullblue}{$224/3^{\mathbf{102}}$}, $140^{\mathbf{2}}$, $\infty^{\mathbf{35}}$ \\ 
+ \hline 
+128 &  & $245/4^{\mathbf{4}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{14}}$ & $14/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $98/3^{\mathbf{3}}$, $245/4^{\mathbf{4}}$, $63^{\mathbf{1}}$, $126^{\mathbf{1}}$, $154^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $14/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $98/3^{\mathbf{3}}$, $245/4^{\mathbf{8}}$, $63^{\mathbf{2}}$, \textcolor{fullblue}{$238/3^{\mathbf{114}}$}, $126^{\mathbf{1}}$, $154^{\mathbf{1}}$, $\infty^{\mathbf{37}}$ \\ 
+ \hline 
+135 &  & $133/2^{\mathbf{2}}$, $70^{\mathbf{3}}$, $\infty^{\mathbf{16}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $112/3^{\mathbf{3}}$, $133/2^{\mathbf{2}}$, $70^{\mathbf{3}}$, $126^{\mathbf{1}}$, $154^{\mathbf{1}}$, $\infty^{\mathbf{6}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{2}}$, $112/3^{\mathbf{3}}$, $133/2^{\mathbf{4}}$, $70^{\mathbf{6}}$, \textcolor{fullblue}{$84^{\mathbf{127}}$}, $126^{\mathbf{1}}$, $154^{\mathbf{1}}$, $\infty^{\mathbf{43}}$ \\ 
+ \hline 
+142 &  & $301/4^{\mathbf{4}}$, $77^{\mathbf{1}}$, $\infty^{\mathbf{18}}$ & $14^{\mathbf{1}}$, $56/3^{\mathbf{6}}$, $42^{\mathbf{1}}$, $301/4^{\mathbf{4}}$, $77^{\mathbf{1}}$, $140^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $14^{\mathbf{1}}$, $56/3^{\mathbf{6}}$, $42^{\mathbf{1}}$, $301/4^{\mathbf{8}}$, $77^{\mathbf{2}}$, \textcolor{fullblue}{$266/3^{\mathbf{141}}$}, $140^{\mathbf{2}}$, $\infty^{\mathbf{49}}$ \\ 
+ \hline 
+149 &  & $70^{\mathbf{4}}$, $161/2^{\mathbf{2}}$, $\infty^{\mathbf{19}}$ & $0^{\mathbf{1}}$, $70/3^{\mathbf{6}}$, $28^{\mathbf{1}}$, $70^{\mathbf{4}}$, $161/2^{\mathbf{2}}$, $140^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $70/3^{\mathbf{6}}$, $28^{\mathbf{1}}$, $70^{\mathbf{8}}$, $161/2^{\mathbf{4}}$, \textcolor{fullblue}{$280/3^{\mathbf{156}}$}, $140^{\mathbf{2}}$, $\infty^{\mathbf{53}}$ \\ 
+ \hline 
+156 &  & $301/4^{\mathbf{8}}$, $\infty^{\mathbf{19}}$ & $7^{\mathbf{2}}$, $28^{\mathbf{2}}$, $98/3^{\mathbf{3}}$, $63^{\mathbf{2}}$, $301/4^{\mathbf{8}}$, $154^{\mathbf{1}}$, $\infty^{\mathbf{9}}$ & $7^{\mathbf{2}}$, $28^{\mathbf{2}}$, $98/3^{\mathbf{3}}$, $63^{\mathbf{2}}$, $301/4^{\mathbf{16}}$, \textcolor{fullblue}{$98^{\mathbf{172}}$}, $154^{\mathbf{1}}$, $\infty^{\mathbf{55}}$ \\ 
+ \hline 
+163 &  & $161/2^{\mathbf{4}}$, $84^{\mathbf{4}}$, $\infty^{\mathbf{22}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $112/3^{\mathbf{3}}$, $133/2^{\mathbf{4}}$, $161/2^{\mathbf{4}}$, $84^{\mathbf{4}}$, $154^{\mathbf{1}}$, $252^{\mathbf{1}}$, $\infty^{\mathbf{9}}$ & $28/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $112/3^{\mathbf{3}}$, $133/2^{\mathbf{4}}$, $161/2^{\mathbf{8}}$, $84^{\mathbf{8}}$, \textcolor{fullblue}{$308/3^{\mathbf{186}}$}, $154^{\mathbf{1}}$, $252^{\mathbf{1}}$, $\infty^{\mathbf{61}}$ \\ 
+ \hline 
+170 &  & $357/4^{\mathbf{8}}$, $\infty^{\mathbf{25}}$ & $49/3^{\mathbf{6}}$, $42^{\mathbf{1}}$, $70^{\mathbf{2}}$, $77^{\mathbf{4}}$, $357/4^{\mathbf{8}}$, $259^{\mathbf{2}}$, $\infty^{\mathbf{10}}$ & $49/3^{\mathbf{6}}$, $42^{\mathbf{1}}$, $70^{\mathbf{2}}$, $77^{\mathbf{4}}$, $357/4^{\mathbf{16}}$, \textcolor{fullblue}{$322/3^{\mathbf{201}}$}, $259^{\mathbf{2}}$, $\infty^{\mathbf{68}}$ \\ 
+ \hline 
+5 &  &  &  &  \\ 
+ \hline 
+12 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+19 &  &  &  & \textcolor{fullblue}{$14/3^{\mathbf{3}}$} \\ 
+ \hline 
+26 &  &  &  & \textcolor{fullblue}{$28/3^{\mathbf{6}}$} \\ 
+ \hline 
+33 &  &  &  & \textcolor{fullblue}{$14^{\mathbf{10}}$} \\ 
+ \hline 
+40 &  &  &  & \textcolor{fullblue}{$56/3^{\mathbf{15}}$} \\ 
+ \hline 
+47 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$70/3^{\mathbf{18}}$}, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+54 &  & $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$28^{\mathbf{22}}$}, $\infty^{\mathbf{5}}$ \\ 
+ \hline 
+61 &  & $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $\infty^{\mathbf{2}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$98/3^{\mathbf{27}}$}, $\infty^{\mathbf{8}}$ \\ 
+ \hline 
+68 &  & $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$112/3^{\mathbf{33}}$}, $\infty^{\mathbf{11}}$ \\ 
+ \hline 
+75 &  & $\infty^{\mathbf{5}}$ & $28^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $28^{\mathbf{2}}$, \textcolor{fullblue}{$42^{\mathbf{40}}$}, $\infty^{\mathbf{13}}$ \\ 
+ \hline 
+82 &  & $35^{\mathbf{1}}$, $\infty^{\mathbf{5}}$ & $28^{\mathbf{2}}$, $35^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $28^{\mathbf{2}}$, $35^{\mathbf{2}}$, \textcolor{fullblue}{$140/3^{\mathbf{48}}$}, $\infty^{\mathbf{14}}$ \\ 
+ \hline 
+89 &  & $77/2^{\mathbf{2}}$, $\infty^{\mathbf{5}}$ & $28^{\mathbf{2}}$, $77/2^{\mathbf{2}}$, $\infty^{\mathbf{3}}$ & $28^{\mathbf{2}}$, $77/2^{\mathbf{4}}$, \textcolor{fullblue}{$154/3^{\mathbf{57}}$}, $\infty^{\mathbf{15}}$ \\ 
+ \hline 
+96 &  & $42^{\mathbf{3}}$, $\infty^{\mathbf{5}}$ & $28^{\mathbf{2}}$, $42^{\mathbf{3}}$, $\infty^{\mathbf{3}}$ & $28^{\mathbf{2}}$, $42^{\mathbf{6}}$, \textcolor{fullblue}{$56^{\mathbf{67}}$}, $\infty^{\mathbf{16}}$ \\ 
+ \hline 
+103 &  & $91/2^{\mathbf{4}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $91/2^{\mathbf{4}}$, $56^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $91/2^{\mathbf{8}}$, $56^{\mathbf{1}}$, \textcolor{fullblue}{$182/3^{\mathbf{78}}$}, $\infty^{\mathbf{17}}$ \\ 
+ \hline 
+110 &  & $49^{\mathbf{3}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $49^{\mathbf{3}}$, $56^{\mathbf{1}}$, $63^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $7^{\mathbf{2}}$, $49^{\mathbf{6}}$, $56^{\mathbf{1}}$, $63^{\mathbf{2}}$, \textcolor{fullblue}{$196/3^{\mathbf{87}}$}, $\infty^{\mathbf{21}}$ \\ 
+ \hline 
+117 &  & $105/2^{\mathbf{2}}$, $133/2^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, $105/2^{\mathbf{2}}$, $56^{\mathbf{1}}$, $133/2^{\mathbf{2}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{3}}$, $105/2^{\mathbf{4}}$, $56^{\mathbf{1}}$, $133/2^{\mathbf{4}}$, \textcolor{fullblue}{$70^{\mathbf{97}}$}, $\infty^{\mathbf{26}}$ \\ 
+ \hline 
+124 &  & $56^{\mathbf{1}}$, $70^{\mathbf{3}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{4}}$, $56^{\mathbf{2}}$, $70^{\mathbf{3}}$, $\infty^{\mathbf{5}}$ & $0^{\mathbf{1}}$, $21^{\mathbf{4}}$, $56^{\mathbf{3}}$, $70^{\mathbf{6}}$, \textcolor{fullblue}{$224/3^{\mathbf{108}}$}, $\infty^{\mathbf{31}}$ \\ 
+ \hline 
+131 &  & $147/2^{\mathbf{4}}$, $\infty^{\mathbf{13}}$ & $14/3^{\mathbf{3}}$, $28^{\mathbf{3}}$, $56^{\mathbf{1}}$, $147/2^{\mathbf{4}}$, $\infty^{\mathbf{6}}$ & $14/3^{\mathbf{3}}$, $28^{\mathbf{3}}$, $56^{\mathbf{1}}$, $147/2^{\mathbf{8}}$, \textcolor{fullblue}{$238/3^{\mathbf{120}}$}, $\infty^{\mathbf{36}}$ \\ 
+ \hline 
+138 &  & $63^{\mathbf{2}}$, $77^{\mathbf{3}}$, $\infty^{\mathbf{14}}$ & $28/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $35^{\mathbf{2}}$, $56^{\mathbf{1}}$, $63^{\mathbf{2}}$, $77^{\mathbf{3}}$, $\infty^{\mathbf{6}}$ & $28/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $35^{\mathbf{2}}$, $56^{\mathbf{1}}$, $63^{\mathbf{4}}$, $77^{\mathbf{6}}$, \textcolor{fullblue}{$84^{\mathbf{133}}$}, $\infty^{\mathbf{39}}$ \\ 
+ \hline 
+145 &  & $133/2^{\mathbf{4}}$, $161/2^{\mathbf{2}}$, $\infty^{\mathbf{15}}$ & $14^{\mathbf{1}}$, $56/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $42^{\mathbf{1}}$, $56^{\mathbf{1}}$, $133/2^{\mathbf{4}}$, $161/2^{\mathbf{2}}$, $\infty^{\mathbf{7}}$ & $14^{\mathbf{1}}$, $56/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $42^{\mathbf{1}}$, $56^{\mathbf{1}}$, $133/2^{\mathbf{8}}$, $161/2^{\mathbf{4}}$, \textcolor{fullblue}{$266/3^{\mathbf{147}}$}, $\infty^{\mathbf{43}}$ \\ 
+ \hline 
+152 &  & $70^{\mathbf{6}}$, $84^{\mathbf{1}}$, $\infty^{\mathbf{16}}$ & $21^{\mathbf{2}}$, $28^{\mathbf{5}}$, $56^{\mathbf{1}}$, $70^{\mathbf{6}}$, $84^{\mathbf{1}}$, $\infty^{\mathbf{8}}$ & $21^{\mathbf{2}}$, $28^{\mathbf{5}}$, $56^{\mathbf{1}}$, $70^{\mathbf{12}}$, $84^{\mathbf{2}}$, \textcolor{fullblue}{$280/3^{\mathbf{162}}$}, $\infty^{\mathbf{47}}$ \\ 
+ \hline 
+159 &  & $147/2^{\mathbf{8}}$, $\infty^{\mathbf{17}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $63/2^{\mathbf{4}}$, $147/2^{\mathbf{8}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $28^{\mathbf{3}}$, $63/2^{\mathbf{4}}$, $147/2^{\mathbf{16}}$, \textcolor{fullblue}{$98^{\mathbf{178}}$}, $\infty^{\mathbf{51}}$ \\ 
+ \hline 
+166 &  & $77^{\mathbf{6}}$, $84^{\mathbf{4}}$, $\infty^{\mathbf{17}}$ & $0^{\mathbf{1}}$, $35^{\mathbf{4}}$, $56^{\mathbf{1}}$, $63^{\mathbf{2}}$, $77^{\mathbf{6}}$, $84^{\mathbf{4}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $35^{\mathbf{4}}$, $56^{\mathbf{1}}$, $63^{\mathbf{2}}$, $77^{\mathbf{12}}$, $84^{\mathbf{8}}$, \textcolor{fullblue}{$308/3^{\mathbf{195}}$}, $\infty^{\mathbf{53}}$ \\ 
+ \hline 
+173 &  & $161/2^{\mathbf{4}}$, $175/2^{\mathbf{4}}$, $189/2^{\mathbf{2}}$, $\infty^{\mathbf{20}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{2}}$, $42^{\mathbf{3}}$, $56^{\mathbf{1}}$, $70^{\mathbf{4}}$, $161/2^{\mathbf{4}}$, $175/2^{\mathbf{4}}$, $189/2^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{2}}$, $42^{\mathbf{3}}$, $56^{\mathbf{1}}$, $70^{\mathbf{4}}$, $161/2^{\mathbf{8}}$, $175/2^{\mathbf{8}}$, $189/2^{\mathbf{4}}$, \textcolor{fullblue}{$322/3^{\mathbf{210}}$}, $\infty^{\mathbf{59}}$ \\ 
+ \hline 
+1 &  &  &  &  \\ 
+ \hline 
+8 &  &  &  &  \\ 
+ \hline 
+15 &  &  &  & \textcolor{fullblue}{$0^{\mathbf{1}}$} \\ 
+ \hline 
+22 &  &  &  & \textcolor{fullblue}{$14/3^{\mathbf{3}}$} \\ 
+ \hline 
+29 &  &  &  & \textcolor{fullblue}{$28/3^{\mathbf{6}}$} \\ 
+ \hline 
+36 &  &  &  & \textcolor{fullblue}{$14^{\mathbf{10}}$} \\ 
+ \hline 
+43 &  &  &  & \textcolor{fullblue}{$56/3^{\mathbf{15}}$} \\ 
+ \hline 
+50 &  &  &  & \textcolor{fullblue}{$70/3^{\mathbf{21}}$} \\ 
+ \hline 
+57 &  & $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$ & $0^{\mathbf{1}}$, \textcolor{fullblue}{$28^{\mathbf{25}}$}, $\infty^{\mathbf{2}}$ \\ 
+ \hline 
+64 &  & $\infty^{\mathbf{2}}$ & $7^{\mathbf{2}}$ & $7^{\mathbf{2}}$, \textcolor{fullblue}{$98/3^{\mathbf{30}}$}, $\infty^{\mathbf{4}}$ \\ 
+ \hline 
+71 &  & $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, $\infty^{\mathbf{1}}$ & $0^{\mathbf{1}}$, $14^{\mathbf{1}}$, \textcolor{fullblue}{$112/3^{\mathbf{36}}$}, $\infty^{\mathbf{7}}$ \\ 
+ \hline 
+78 &  & $\infty^{\mathbf{4}}$ & $7^{\mathbf{2}}$, $\infty^{\mathbf{2}}$ & $7^{\mathbf{2}}$, \textcolor{fullblue}{$42^{\mathbf{43}}$}, $\infty^{\mathbf{10}}$ \\ 
+ \hline 
+85 &  & $\infty^{\mathbf{5}}$ & $14^{\mathbf{1}}$, $28^{\mathbf{2}}$, $\infty^{\mathbf{2}}$ & $14^{\mathbf{1}}$, $28^{\mathbf{2}}$, \textcolor{fullblue}{$140/3^{\mathbf{51}}$}, $\infty^{\mathbf{12}}$ \\ 
+ \hline 
+92 &  & $\infty^{\mathbf{6}}$ & $35^{\mathbf{4}}$, $\infty^{\mathbf{2}}$ & $35^{\mathbf{4}}$, \textcolor{fullblue}{$154/3^{\mathbf{60}}$}, $\infty^{\mathbf{14}}$ \\ 
+ \hline 
+99 &  & $42^{\mathbf{1}}$, $\infty^{\mathbf{6}}$ & $28^{\mathbf{2}}$, $42^{\mathbf{3}}$, $\infty^{\mathbf{2}}$ & $28^{\mathbf{2}}$, $42^{\mathbf{4}}$, \textcolor{fullblue}{$56^{\mathbf{70}}$}, $\infty^{\mathbf{15}}$ \\ 
+ \hline 
+106 &  & $49^{\mathbf{1}}$, $\infty^{\mathbf{7}}$ & $35^{\mathbf{4}}$, $49^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $35^{\mathbf{4}}$, $49^{\mathbf{2}}$, \textcolor{fullblue}{$182/3^{\mathbf{81}}$}, $\infty^{\mathbf{18}}$ \\ 
+ \hline 
+113 &  & $49^{\mathbf{2}}$, $\infty^{\mathbf{7}}$ & $0^{\mathbf{1}}$, $42^{\mathbf{2}}$, $49^{\mathbf{2}}$, $56^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $0^{\mathbf{1}}$, $42^{\mathbf{2}}$, $49^{\mathbf{4}}$, $56^{\mathbf{1}}$, \textcolor{fullblue}{$196/3^{\mathbf{93}}$}, $\infty^{\mathbf{19}}$ \\ 
+ \hline 
+120 &  & $56^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $14/3^{\mathbf{3}}$, $56^{\mathbf{2}}$, $63^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{3}}$ & $14/3^{\mathbf{3}}$, $56^{\mathbf{4}}$, $63^{\mathbf{2}}$, \textcolor{fullblue}{$70^{\mathbf{103}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{23}}$ \\ 
+ \hline 
+127 &  & $56^{\mathbf{1}}$, $70^{\mathbf{1}}$, $\infty^{\mathbf{11}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $56^{\mathbf{2}}$, $70^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{4}}$ & $0^{\mathbf{1}}$, $28/3^{\mathbf{3}}$, $56^{\mathbf{3}}$, $70^{\mathbf{3}}$, \textcolor{fullblue}{$224/3^{\mathbf{114}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{28}}$ \\ 
+ \hline 
+134 &  & $63^{\mathbf{1}}$, $77^{\mathbf{1}}$, $\infty^{\mathbf{13}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $63^{\mathbf{3}}$, $77^{\mathbf{1}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{6}}$ & $14/3^{\mathbf{3}}$, $14^{\mathbf{1}}$, $63^{\mathbf{4}}$, $77^{\mathbf{2}}$, \textcolor{fullblue}{$238/3^{\mathbf{126}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{34}}$ \\ 
+ \hline 
+141 &  & $77^{\mathbf{2}}$, $\infty^{\mathbf{15}}$ & $28/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $70^{\mathbf{1}}$, $77^{\mathbf{2}}$, $126^{\mathbf{1}}$, $\infty^{\mathbf{8}}$ & $28/3^{\mathbf{3}}$, $28^{\mathbf{2}}$, $70^{\mathbf{1}}$, $77^{\mathbf{4}}$, \textcolor{fullblue}{$84^{\mathbf{139}}$}, $126^{\mathbf{1}}$, $\infty^{\mathbf{40}}$ \\ 
+ \hline 
+148 &  & $84^{\mathbf{2}}$, $\infty^{\mathbf{17}}$ & $14^{\mathbf{1}}$, $98/3^{\mathbf{6}}$, $84^{\mathbf{2}}$, $154^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $14^{\mathbf{1}}$, $98/3^{\mathbf{6}}$, $84^{\mathbf{4}}$, \textcolor{fullblue}{$266/3^{\mathbf{153}}$}, $154^{\mathbf{2}}$, $\infty^{\mathbf{44}}$ \\ 
+ \hline 
+155 &  & $70^{\mathbf{2}}$, $84^{\mathbf{1}}$, $\infty^{\mathbf{18}}$ & $28^{\mathbf{2}}$, $112/3^{\mathbf{6}}$, $70^{\mathbf{2}}$, $84^{\mathbf{1}}$, $154^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $28^{\mathbf{2}}$, $112/3^{\mathbf{6}}$, $70^{\mathbf{4}}$, $84^{\mathbf{2}}$, \textcolor{fullblue}{$280/3^{\mathbf{168}}$}, $154^{\mathbf{2}}$, $\infty^{\mathbf{47}}$ \\ 
+ \hline 
+162 &  & $301/4^{\mathbf{4}}$, $91^{\mathbf{1}}$, $\infty^{\mathbf{18}}$ & $98/3^{\mathbf{6}}$, $42^{\mathbf{2}}$, $301/4^{\mathbf{4}}$, $91^{\mathbf{1}}$, $154^{\mathbf{2}}$, $\infty^{\mathbf{8}}$ & $98/3^{\mathbf{6}}$, $42^{\mathbf{2}}$, $301/4^{\mathbf{8}}$, $91^{\mathbf{2}}$, \textcolor{fullblue}{$98^{\mathbf{184}}$}, $154^{\mathbf{2}}$, $\infty^{\mathbf{49}}$ \\ 
+ \hline 
+169 &  & $77^{\mathbf{4}}$, $161/2^{\mathbf{2}}$, $\infty^{\mathbf{19}}$ & $0^{\mathbf{1}}$, $112/3^{\mathbf{6}}$, $56^{\mathbf{1}}$, $77^{\mathbf{4}}$, $161/2^{\mathbf{2}}$, $154^{\mathbf{2}}$, $\infty^{\mathbf{9}}$ & $0^{\mathbf{1}}$, $112/3^{\mathbf{6}}$, $56^{\mathbf{1}}$, $77^{\mathbf{8}}$, $161/2^{\mathbf{4}}$, \textcolor{fullblue}{$308/3^{\mathbf{201}}$}, $154^{\mathbf{2}}$, $\infty^{\mathbf{53}}$ \\ 
+ \hline 
+176 &  & $329/4^{\mathbf{8}}$, $\infty^{\mathbf{19}}$ & $7^{\mathbf{2}}$, $42^{\mathbf{2}}$, $182/3^{\mathbf{3}}$, $63^{\mathbf{2}}$, $329/4^{\mathbf{8}}$, $182^{\mathbf{1}}$, $\infty^{\mathbf{9}}$ & $7^{\mathbf{2}}$, $42^{\mathbf{2}}$, $182/3^{\mathbf{3}}$, $63^{\mathbf{2}}$, $329/4^{\mathbf{16}}$, \textcolor{fullblue}{$322/3^{\mathbf{219}}$}, $182^{\mathbf{1}}$, $\infty^{\mathbf{55}}$ \\ 
+ \hline 

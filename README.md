@@ -1,25 +1,29 @@
 # $U$-Operators
-This repository contains the calculations explained in Section 5 of the Article " $U$-Operators Acting on Harmonic Cocycles for $\mathrm{GL}_3$ and Their Slopes" (Gebhard Böckle, Peter Mathias Gräf, Theresa Kaiser). 
+This repository contains the calculations explained in Section 5 of the article " $U$-Operators Acting on Harmonic Cocycles for $\mathrm{GL}_3$ and Their Slopes" (Gebhard Böckle, Peter Mathias Gräf, Theresa Kaiser). 
 It studies the action of the two natural $U$-operators acting on $\Gamma$-invariant spaces of harmonic cocycles for $\mathrm{GL}_3$ for certain congruence subgroups $\Gamma$, in a positive characteristic setting. The cocycle spaces we consider are conjecturally isomorphic to spaces of Drinfeld cusp forms of rank $3$ and level $\Gamma$ via an analogue of Teitelbaum's residue map. We give explicit descriptions of the spaces of harmonic cocycles as subspaces of the vector space of coefficients, and of the resulting $U$- and Hecke operators acting on these. We then explain how to implement these formulas in a computer algebra system. Using the resulting data of slopes (and characteristic polynomials) for the Hecke actions, we observe several patterns and interesting phenomena present in our slope tables. This appears to be the first such study in a $\mathrm{GL}_3$ setting.
 
 The preprint can be found on [arXiv.org](https://arxiv.org/abs/2503.00141) and theoretical explanations as well as pseudocode are given there. The calculations were realized in the computer algebra system [Magma](https://magma.maths.usyd.edu.au/magma/).
 
-## Program files
-The calculations are carried out in `main.mg`. **Caution!** The code is not optimized and takes several days to run. We therefore recommend to start the program with the command `nohup magma.mg &`. 
-The program creates `.txt` files as output that are meant to be processed further before being read by humans. 
+## Folder structure
+### Main program
+This folder contains the main program in two versions. The first is `main.mg`. This contains the algorithm as described in the paper.
+It was executed for $q = 2, k \leq 50$, $q=3, k \leq 80$, $q=4, k \leq 100$, and $q=5, k \leq 130$. For each value of $q$, we went through all possible types $n \in \{0, \dots, q-2\}$. 
 
-For the output files containing slopes, the first improvement we suggest is to typeset fractions with the LaTeX command `\frac`. In order to do this, open the file in an editor that is capable of search- and replace-actions using Regular Expressions, such as Geany or Notepad++. The syntax for the replace field might vary slightly.
-- Search for `([0-9]+)/([0-9]+)` and replace it with `\\frac{\1}{\2}`.\* 
+The second program, `main-while.mg`, uses the same functions. It can be applied to any prime power $q$ and will start the calculation for type $1$, continously increasing the weight until a specified maximal runtime per weight is reached. Then it will also perform the computation for the other types, until the same maximal weight (+1). We executed this version for $q=7$, getting up to weight $k \leq 150$, and $q=8, k \leq 176$.
 
-For the output files containing factorized characteristic polynomials, carry out the following. The actions where RegEx Search should be activated are marked with a star: 
-- Search for `<` and replace it with `(`. 
-- Search for `, ([0-9]+)>` and replace it with `\)^\{\1\}`.\*
-- Search for `(X)` and replace it with `X`.
-- Search for `,\n` and replace it with ` `. \* Ensure multiline-matching is activated.
-- Search for `[\n` and replace it with `$`. \* Ensure multiline-matching is activated.
-- Search for `\n]` and replace it with `$`. \* Ensure multiline-matching is activated.
+Both files output a list of tuples of characteristic polynomials, that can be further analyzed in Magma, and a table that can be copied into LaTeX.
+#### Old version
+We also included the previous version of the program (to save the reader the trouble of using Github to restore it). This contains sign errors in the calculations of A_i and C_i that were corrected in the current version. The file `matrix-to-matrix-function.mg` contains a variant of the `mToM` function from the old version that works for abitrary type and can be used to verify the formulas for the transformation matrices appearing in the new version.
+### Results 
+This folder contains the resulting slopes in human-readable format, once as a very long pdf with LaTeX tables of slopes and once as plots that give a better overview. The plots were generated in Python using Matplotlib.
+### Runtime Analysis
+This folder contains the code used to generate the plots of our measured runtimes for $q=5$ that were presented in the article.
+### Dimension Analysis
+This folder contains code to test the dimension formulae given in the paper. With `generateDimensions.mg`, we can calculate (dimensions of) spaces of harmonic cocycles for our subgroups relatively quickly. The results are given in `dimension-list.txt` and `dimension-list-type1.txt`. The program `testDimensions.mg` then takes those lists and checks if the dimensions formulae from the article (in Subsection 6.1) are fulfilled.
+### Polynomial Analysis
+The programs in this folder read in the characteristic polynomials generated by the main program and analyze them. They can also be used to re-generate the LaTeX-tables with slopes from the polynomials. 
+The relevant code, where the observations from the article are tested, can be found in `header.mg`.
 
-After these steps are completed, the file can be processed with the utility program `toTable.mg`. This in turn creates a new file whose content can be directly copied into a LaTeX table. In `toTable.mg`, the user can choose which columns should appear in the final table.
-
-## Result files
-We will upload files containing longer result tables than in the preprint shortly.
+Because we changed the renormalization between executing the program code and writing the current version of the article (cf. Subsection 5.1.1.), we had to shift the slopes by a fixed number that depends on the type, so we would not have to redo the whole calculation (which takes several weeks). This is why the function `getSlopesLaTeX` has an optional `shift` parameter. The correct shift is calculated in the function `printLine`.
+### Slope Analysis
+Tests the observations we made on the slopes, after shifting the slopes according to the normalization from the article (cf. Subsection 5.1.1). The `allslopes` files were generated from the LaTeX-tables using regular expressions. The `testObservations`-files also generate the datasets that are used to plot U_i-slopes in Python, see the folder `Results`.

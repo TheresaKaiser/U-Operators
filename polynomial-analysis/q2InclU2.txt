@@ -1,0 +1,262 @@
+Magma V2.29-2     Tue Dec  2 2025 13:03:17 on riemann  [Seed = 728536032]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "testPolsq2.mg"
+Loading "header.mg"
+2
+i:  2
+type:  0
+Loading "pols-q2-i2.txt"
+missing Slopes Gamma0(t) at k= 0
+[]
+
+
+missing Slopes Gamma0(t) at k= 2
+[]
+missing Slopes P2 at k= 2
+[]
+missing Slopes P0 at k= 2
+[ <-1, 1> ]
+
+
+missing Slopes Gamma0(t) at k= 4
+[ <1, 1> ]
+missing Slopes P2 at k= 4
+[ <1, 1> ]
+missing Slopes P0 at k= 4
+[ <1, 1> ]
+missing Slopes GL3(A) at k= 4
+[ <1, 1>, <-1, 1> ]
+
+
+missing Slopes Gamma0(t) at k= 6
+[]
+missing Slopes P2 at k= 6
+[]
+missing Slopes P0 at k= 6
+[]
+missing Slopes GL3(A) at k= 6
+[ <3/2, 2>, <-1, 1> ]
+
+
+missing Slopes Gamma0(t) at k= 8
+[ <1, 1> ]
+missing Slopes P2 at k= 8
+[ <1, 1>, <2, 1> ]
+missing Slopes P0 at k= 8
+[ <1, 1> ]
+missing Slopes GL3(A) at k= 8
+[ <1, 1>, <2, 1>, <-1, 2> ]
+
+
+missing Slopes Gamma0(t) at k= 10
+[]
+missing Slopes P2 at k= 10
+[]
+missing Slopes P0 at k= 10
+[]
+missing Slopes GL3(A) at k= 10
+[ <2, 1>, <5/2, 2>, <-1, 2> ]
+
+
+missing Slopes Gamma0(t) at k= 12
+[ <1, 1> ]
+missing Slopes P2 at k= 12
+[ <1, 1>, <3, 1> ]
+missing Slopes P0 at k= 12
+[ <1, 1>, <3, 1> ]
+missing Slopes GL3(A) at k= 12
+[ <1, 1>, <3, 3>, <-1, 2> ]
+
+
+missing Slopes Gamma0(t) at k= 14
+[]
+missing Slopes P2 at k= 14
+[]
+missing Slopes P0 at k= 14
+[]
+missing Slopes GL3(A) at k= 14
+[ <7/2, 2>, <-1, 3> ]
+
+
+missing Slopes Gamma0(t) at k= 16
+[ <1, 1> ]
+missing Slopes P2 at k= 16
+[ <1, 1>, <4, 2> ]
+missing Slopes P0 at k= 16
+[ <1, 1> ]
+missing Slopes GL3(A) at k= 16
+[ <1, 1>, <4, 2>, <-1, 3> ]
+
+
+missing Slopes Gamma0(t) at k= 18
+[]
+missing Slopes P2 at k= 18
+[ <4, 1>, <9/2, 2> ]
+missing Slopes P0 at k= 18
+[ <9/2, 2> ]
+missing Slopes GL3(A) at k= 18
+[ <2, 1>, <4, 1>, <9/2, 4>, <-1, 3> ]
+
+
+missing Slopes Gamma0(t) at k= 20
+[ <1, 1> ]
+missing Slopes P2 at k= 20
+[ <1, 1>, <5, 1> ]
+missing Slopes P0 at k= 20
+[ <1, 1>, <5, 1> ]
+missing Slopes GL3(A) at k= 20
+[ <1, 1>, <3, 1>, <4, 1>, <5, 3>, <-1, 4> ]
+
+
+missing Slopes Gamma0(t) at k= 22
+[]
+missing Slopes P2 at k= 22
+[ <11/2, 2> ]
+missing Slopes P0 at k= 22
+[ <11/2, 2> ]
+missing Slopes GL3(A) at k= 22
+[ <11/2, 4>, <-1, 4> ]
+
+
+missing Slopes Gamma0(t) at k= 24
+[ <1, 1>, <6, 1> ]
+missing Slopes P2 at k= 24
+[ <1, 1>, <6, 3> ]
+missing Slopes P0 at k= 24
+[ <1, 1>, <6, 3> ]
+missing Slopes GL3(A) at k= 24
+[ <1, 1>, <5, 1>, <6, 5>, <-1, 4> ]
+
+
+missing Slopes Gamma0(t) at k= 26
+[]
+missing Slopes P2 at k= 26
+[ <13/2, 2> ]
+missing Slopes P0 at k= 26
+[ <13/2, 2> ]
+missing Slopes GL3(A) at k= 26
+[ <6, 1>, <13/2, 4>, <-1, 5> ]
+
+
+missing Slopes Gamma0(t) at k= 28
+[ <1, 1>, <7, 1> ]
+missing Slopes P2 at k= 28
+[ <1, 1>, <7, 3> ]
+missing Slopes P0 at k= 28
+[ <1, 1>, <7, 3> ]
+missing Slopes GL3(A) at k= 28
+[ <1, 1>, <3, 1>, <7, 5>, <-1, 5> ]
+
+
+missing Slopes Gamma0(t) at k= 30
+[]
+missing Slopes P2 at k= 30
+[]
+missing Slopes P0 at k= 30
+[]
+missing Slopes GL3(A) at k= 30
+[ <15/2, 6>, <-1, 5> ]
+
+
+missing Slopes Gamma0(t) at k= 32
+[ <1, 1>, <4, 2> ]
+missing Slopes P2 at k= 32
+[ <1, 1>, <4, 2>, <8, 3> ]
+missing Slopes P0 at k= 32
+[ <1, 1>, <4, 2> ]
+missing Slopes GL3(A) at k= 32
+[ <1, 1>, <4, 2>, <8, 3>, <-1, 6> ]
+
+
+missing Slopes Gamma0(t) at k= 34
+[ <9/2, 2>, <17/2, 2> ]
+missing Slopes P2 at k= 34
+[ <9/2, 2>, <17/2, 4> ]
+missing Slopes P0 at k= 34
+[ <9/2, 2>, <17/2, 4> ]
+missing Slopes GL3(A) at k= 34
+[ <9/2, 2>, <17/2, 6>, <-1, 6> ]
+
+
+missing Slopes Gamma0(t) at k= 36
+[ <1, 1>, <9, 3> ]
+missing Slopes P2 at k= 36
+[ <1, 1>, <9, 5> ]
+missing Slopes P0 at k= 36
+[ <1, 1>, <9, 5> ]
+missing Slopes GL3(A) at k= 36
+[ <1, 1>, <3, 1>, <4, 1>, <5, 1>, <9, 7>, <-1, 6> ]
+
+
+missing Slopes Gamma0(t) at k= 38
+[ <11/2, 2>, <19/2, 2> ]
+missing Slopes P2 at k= 38
+[ <11/2, 2>, <8, 1>, <19/2, 4> ]
+missing Slopes P0 at k= 38
+[ <11/2, 2>, <19/2, 4> ]
+missing Slopes GL3(A) at k= 38
+[ <11/2, 2>, <8, 1>, <19/2, 6>, <-1, 7> ]
+
+
+missing Slopes Gamma0(t) at k= 40
+[ <1, 1>, <10, 2> ]
+missing Slopes P2 at k= 40
+[ <1, 1>, <10, 5> ]
+missing Slopes P0 at k= 40
+[ <1, 1>, <10, 4> ]
+missing Slopes GL3(A) at k= 40
+[ <1, 1>, <5, 1>, <6, 1>, <8, 1>, <9, 1>, <10, 7>, <-1, 7> ]
+
+
+missing Slopes Gamma0(t) at k= 42
+[ <21/2, 4> ]
+missing Slopes P2 at k= 42
+[ <21/2, 6> ]
+missing Slopes P0 at k= 42
+[ <21/2, 6> ]
+missing Slopes GL3(A) at k= 42
+[ <6, 1>, <10, 1>, <21/2, 8>, <-1, 7> ]
+
+
+missing Slopes Gamma0(t) at k= 44
+[ <1, 1>, <11, 3> ]
+missing Slopes P2 at k= 44
+[ <1, 1>, <11, 5> ]
+missing Slopes P0 at k= 44
+[ <1, 1>, <11, 5> ]
+missing Slopes GL3(A) at k= 44
+[ <1, 1>, <3, 1>, <7, 1>, <9, 1>, <11, 7>, <-1, 8> ]
+
+
+missing Slopes Gamma0(t) at k= 46
+[ <19/2, 2> ]
+missing Slopes P2 at k= 46
+[ <19/2, 2>, <23/2, 2> ]
+missing Slopes P0 at k= 46
+[ <19/2, 2>, <23/2, 2> ]
+missing Slopes GL3(A) at k= 46
+[ <19/2, 2>, <23/2, 8>, <-1, 8> ]
+
+
+missing Slopes Gamma0(t) at k= 48
+[ <1, 1>, <4, 2>, <12, 5> ]
+missing Slopes P2 at k= 48
+[ <1, 1>, <4, 2>, <12, 7> ]
+missing Slopes P0 at k= 48
+[ <1, 1>, <4, 2>, <12, 7> ]
+missing Slopes GL3(A) at k= 48
+[ <1, 1>, <4, 2>, <9, 1>, <12, 9>, <-1, 8> ]
+
+
+missing Slopes Gamma0(t) at k= 50
+[ <9/2, 2>, <25/2, 4> ]
+missing Slopes P2 at k= 50
+[ <9/2, 2>, <25/2, 6> ]
+missing Slopes P0 at k= 50
+[ <9/2, 2>, <25/2, 6> ]
+missing Slopes GL3(A) at k= 50
+[ <9/2, 2>, <10, 1>, <12, 1>, <25/2, 8>, <-1, 9> ]
+
+
+Total time: 356.240 seconds, Total memory usage: 1597.44MB

@@ -1,0 +1,1320 @@
+Magma V2.29-2     Fri Nov 28 2025 16:17:25 on riemann  [Seed = 1646441908]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "testObservations-shifted.mg"
+Loading "allslopes.txt"
+==========================================================================
+Analyzing q=2, type=0. 
+The weight k goes up to 50.
+
+not max1 eq 2*max2 2 1 0
+Newform eigenvalue detected in oldforms for k=21, i=2.
+Multiplicities in T2:1, U2P0:2, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=24, i=1.
+Multiplicities in T1:1, U1P0:1, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=42, i=2.
+Multiplicities in T2:1, U2P0:2, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=45, i=2.
+Multiplicities in T2:2, U2P0:4, U2P2: 2.
+Newform eigenvalue detected in oldforms for k=48, i=1.
+Multiplicities in T1:2, U1P0:2, U1P2: 4.
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 0, first appeared at k=0.
+n=2: 2, first appeared at k=5.
+n=3: 10/3, first appeared at k=9.
+n=4: 4, first appeared at k=6.
+n=5: 7, first appeared at k=14.
+n=6: 8, first appeared at k=22.
+n=7: 9, first appeared at k=22.
+n=8: 11, first appeared at k=26.
+n=9: 12, first appeared at k=26.
+n=10: 16, first appeared at k=12.
+n=11: 16, first appeared at k=46.
+n=12: 17, first appeared at k=46.
+n=13: 35/2, first appeared at k=47.
+n=14: 19, first appeared at k=46.
+n=15: 20, first appeared at k=46.
+i=2: 
+n=1: 0, first appeared at k=0.
+n=2: 3/2, first appeared at k=6.
+n=3: 2, first appeared at k=6.
+n=4: 7/2, first appeared at k=14.
+n=5: 4, first appeared at k=8.
+n=6: 5, first appeared at k=15.
+n=7: 8, first appeared at k=14.
+n=8: 35/4, first appeared at k=31.
+n=9: 9, first appeared at k=31.
+n=10: 10, first appeared at k=31.
+n=11: 12, first appeared at k=22.
+n=12: 16, first appeared at k=22.
+n=13: 35/2, first appeared at k=30.
+n=14: 18, first appeared at k=31.
+n=15: 19, first appeared at k=33.
+
+Multiset containing all appearing denominators: 
+{* 1^^750, 2^^153, 3^^183, 4^^69, 8^^13, 16 *}
+{* 1^^517, 2^^108, 3^^118, 4^^40, 8^^7 *}
+==========================================================================
+Analyzing q=3, type=0. 
+The weight k goes up to 79.
+
+Newform eigenvalue detected in oldforms for k=9, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=9, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=15, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=15, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 23 16 12
+Newform eigenvalue detected in oldforms for k=27, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=27, i=2.
+Multiplicities in T2:0, U2P0:2, U2P2: 2.
+Newform eigenvalue detected in oldforms for k=33, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=33, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 41 52 30
+not max1 eq 2*max2 43 52 32
+Newform eigenvalue detected in oldforms for k=45, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=45, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 45 52 32
+not max1 eq 2*max2 47 52 36
+not max1 eq 2*max2 49 52 34
+Newform eigenvalue detected in oldforms for k=51, i=1.
+Multiplicities in T1:0, U1P0:2, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=51, i=2.
+Multiplicities in T2:0, U2P0:2, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=63, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=63, i=2.
+Multiplicities in T2:0, U2P0:2, U2P2: 2.
+not max1 eq 2*max2 65 72 42
+not max1 eq 2*max2 67 72 40
+Newform eigenvalue detected in oldforms for k=69, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=69, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 73 76 42
+not max1 eq 2*max2 75 208/3 48
+not max1 eq 2*max2 77 90 54
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 2, first appeared at k=11.
+n=2: 4, first appeared at k=9.
+n=3: 10, first appeared at k=23.
+n=4: 12, first appeared at k=27.
+n=5: 18, first appeared at k=45.
+n=6: 20, first appeared at k=47.
+n=7: 24, first appeared at k=51.
+n=8: 76/3, first appeared at k=77.
+n=9: 28, first appeared at k=59.
+n=10: 85/3, first appeared at k=59.
+n=11: 52, first appeared at k=33.
+n=12: 34, first appeared at k=77.
+n=13: 52, first appeared at k=35.
+n=14: 52, first appeared at k=51.
+n=15: 56, first appeared at k=51.
+i=2: 
+n=1: 2/3, first appeared at k=5.
+n=2: 2, first appeared at k=9.
+n=3: 16/3, first appeared at k=19.
+n=4: 8, first appeared at k=15.
+n=5: 8, first appeared at k=17.
+n=6: 9, first appeared at k=45.
+n=7: 12, first appeared at k=23.
+n=8: 22, first appeared at k=33.
+n=9: 26, first appeared at k=33.
+n=10: 26, first appeared at k=35.
+n=11: 26, first appeared at k=45.
+n=12: 32, first appeared at k=45.
+n=13: 32, first appeared at k=43.
+n=14: 34, first appeared at k=49.
+n=15: 36, first appeared at k=47.
+
+Multiset containing all appearing denominators: 
+{* 1^^512, 2^^37, 3^^117, 4^^5, 6^^2 *}
+{* 1^^408, 2^^23, 3^^93, 4 *}
+==========================================================================
+Analyzing q=3, type=1. 
+The weight k goes up to 80.
+
+not max1 eq 2*max2 4 2 0
+Newform eigenvalue detected in oldforms for k=30, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=30, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=48, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=48, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 50 66 34
+Newform eigenvalue detected in oldforms for k=54, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=54, i=2.
+Multiplicities in T2:0, U2P0:2, U2P2: 2.
+not max1 eq 2*max2 54 72 38
+Newform eigenvalue detected in oldforms for k=72, i=1.
+Multiplicities in T1:0, U1P0:4, U1P2: 4.
+Newform eigenvalue detected in oldforms for k=72, i=2.
+Multiplicities in T2:0, U2P0:4, U2P2: 0.
+not max1 eq 2*max2 72 90 48
+not max1 eq 2*max2 78 90 50
+not max1 eq 2*max2 80 90 48
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 0, first appeared at k=0.
+n=2: 6, first appeared at k=14.
+n=3: 28/3, first appeared at k=32.
+n=4: 32/3, first appeared at k=16.
+n=5: 18, first appeared at k=52.
+n=6: 24, first appeared at k=50.
+n=7: 26, first appeared at k=52.
+n=8: 83/3, first appeared at k=52.
+n=9: 28, first appeared at k=52.
+n=10: 86/3, first appeared at k=52.
+n=11: 32, first appeared at k=70.
+n=12: 35, first appeared at k=70.
+n=13: 110/3, first appeared at k=70.
+n=14: 37, first appeared at k=70.
+n=15: 56, first appeared at k=38.
+i=2: 
+n=1: 0, first appeared at k=0.
+n=2: 4, first appeared at k=16.
+n=3: 16/3, first appeared at k=16.
+n=4: 6, first appeared at k=18.
+n=5: 10, first appeared at k=30.
+n=6: 12, first appeared at k=30.
+n=7: 15, first appeared at k=28.
+n=8: 18, first appeared at k=38.
+n=9: 22, first appeared at k=38.
+n=10: 28, first appeared at k=38.
+n=11: 28, first appeared at k=40.
+n=12: 30, first appeared at k=40.
+n=13: 30, first appeared at k=44.
+n=14: 33, first appeared at k=46.
+n=15: 36, first appeared at k=54.
+
+Multiset containing all appearing denominators: 
+{* 1^^591, 2^^27, 3^^107, 4^^5, 6^^2, 8 *}
+{* 1^^427, 2^^24, 3^^90, 4^^3 *}
+==========================================================================
+Analyzing q=4, type=0. 
+The weight k goes up to 99.
+
+not max1 eq 2*max2 78 63 54
+not max1 eq 2*max2 81 129/2 54
+not max1 eq 2*max2 84 69 60
+not max1 eq 2*max2 87 141/2 60
+not max1 eq 2*max2 90 72 60
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 6, first appeared at k=21.
+n=2: 18, first appeared at k=48.
+n=3: 21, first appeared at k=48.
+n=4: 30, first appeared at k=96.
+n=5: 32, first appeared at k=96.
+n=6: 60, first appeared at k=48.
+n=7: 60, first appeared at k=45.
+n=8: 45, first appeared at k=96.
+n=9: 60, first appeared at k=51.
+n=10: 60, first appeared at k=60.
+n=11: 60, first appeared at k=69.
+n=12: 201/4, first appeared at k=96.
+n=13: 54, first appeared at k=96.
+n=14: 60, first appeared at k=72.
+n=15: 66, first appeared at k=96.
+i=2: 
+n=1: 3, first appeared at k=21.
+n=2: 6, first appeared at k=27.
+n=3: 7, first appeared at k=27.
+n=4: 15, first appeared at k=63.
+n=5: 18, first appeared at k=63.
+n=6: 30, first appeared at k=45.
+n=7: 30, first appeared at k=48.
+n=8: 30, first appeared at k=51.
+n=9: 30, first appeared at k=60.
+n=10: 23, first appeared at k=75.
+n=11: 30, first appeared at k=72.
+n=12: 42, first appeared at k=90.
+n=13: 60, first appeared at k=90.
+n=14: 54, first appeared at k=96.
+n=15: 66, first appeared at k=96.
+
+Multiset containing all appearing denominators: 
+{* 1^^274, 2^^43, 4^^6, 8 *}
+{* 1^^239, 2^^27, 4^^11, 8 *}
+==========================================================================
+Analyzing q=4, type=1. 
+The weight k goes up to 99.
+
+not max1 eq 2*max2 6 3 0
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 0, first appeared at k=0.
+n=2: 12, first appeared at k=27.
+n=3: 18, first appeared at k=75.
+n=4: 21, first appeared at k=75.
+n=5: 30, first appeared at k=60.
+n=6: 36, first appeared at k=75.
+n=7: 75/2, first appeared at k=75.
+n=8: 42, first appeared at k=42.
+n=9: 69, first appeared at k=54.
+n=10: 48, first appeared at k=48.
+n=11: 69, first appeared at k=60.
+n=12: 72, first appeared at k=57.
+n=13: 72, first appeared at k=63.
+n=14: 96, first appeared at k=66.
+n=15: 81, first appeared at k=78.
+i=2: 
+n=1: 0, first appeared at k=0.
+n=2: 15/2, first appeared at k=30.
+n=3: 21/2, first appeared at k=54.
+n=4: 12, first appeared at k=42.
+n=5: 18, first appeared at k=75.
+n=6: 22, first appeared at k=75.
+n=7: 69/2, first appeared at k=54.
+n=8: 33, first appeared at k=57.
+n=9: 36, first appeared at k=57.
+n=10: 48, first appeared at k=75.
+n=11: 48, first appeared at k=66.
+n=12: 48, first appeared at k=72.
+n=13: 57, first appeared at k=87.
+n=14: 66, first appeared at k=84.
+n=15: 66, first appeared at k=96.
+
+Multiset containing all appearing denominators: 
+{* 1^^333, 2^^49, 4^^6 *}
+{* 1^^253, 2^^34, 4^^9 *}
+==========================================================================
+Analyzing q=4, type=2. 
+The weight k goes up to 99.
+
+not max1 eq 2*max2 42 33 27
+not max1 eq 2*max2 45 36 30
+not max1 eq 2*max2 48 36 27
+not max1 eq 2*max2 51 39 30
+not max1 eq 2*max2 54 39 27
+not max1 eq 2*max2 57 42 30
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 3, first appeared at k=12.
+n=2: 15, first appeared at k=48.
+n=3: 18, first appeared at k=48.
+n=4: 30, first appeared at k=24.
+n=5: 35, first appeared at k=96.
+n=6: 36, first appeared at k=93.
+n=7: 38, first appeared at k=78.
+n=8: 81/2, first appeared at k=93.
+n=9: 45, first appeared at k=93.
+n=10: 47, first appeared at k=96.
+n=11: 48, first appeared at k=96.
+n=12: 201/4, first appeared at k=96.
+n=13: 66, first appeared at k=72.
+n=14: 126, first appeared at k=72.
+n=15: 126, first appeared at k=78.
+i=2: 
+n=1: 3/2, first appeared at k=12.
+n=2: 3, first appeared at k=12.
+n=3: 9, first appeared at k=51.
+n=4: 15, first appeared at k=24.
+n=5: 16, first appeared at k=51.
+n=6: 30, first appeared at k=51.
+n=7: 30, first appeared at k=45.
+n=8: 30, first appeared at k=57.
+n=9: 27, first appeared at k=72.
+n=10: 33, first appeared at k=72.
+n=11: 63, first appeared at k=72.
+n=12: 36, first appeared at k=75.
+n=13: 63, first appeared at k=75.
+n=14: 63, first appeared at k=93.
+n=15: 48, first appeared at k=99.
+
+Multiset containing all appearing denominators: 
+{* 1^^307, 2^^30, 4^^13, 8^^2 *}
+{* 1^^242, 2^^42, 4^^14 *}
+==========================================================================
+Analyzing q=5, type=0. 
+The weight k goes up to 129.
+
+Newform eigenvalue detected in oldforms for k=33, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=33, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=57, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=57, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=69, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=69, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=81, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=81, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 85 80 44
+not max1 eq 2*max2 89 80 48
+Newform eigenvalue detected in oldforms for k=93, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=93, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 93 96 52
+not max1 eq 2*max2 97 104 56
+not max1 eq 2*max2 101 104 60
+Newform eigenvalue detected in oldforms for k=105, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=105, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 105 104 64
+not max1 eq 2*max2 109 104 68
+not max1 eq 2*max2 113 104 72
+not max1 eq 2*max2 117 124 76
+not max1 eq 2*max2 121 124 80
+not max1 eq 2*max2 125 124 84
+not max1 eq 2*max2 129 124 88
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 12, first appeared at k=41.
+n=2: 56/3, first appeared at k=37.
+n=3: 24, first appeared at k=37.
+n=4: 48, first appeared at k=105.
+n=5: 158/3, first appeared at k=113.
+n=6: 56, first appeared at k=121.
+n=7: 60, first appeared at k=129.
+n=8: 61, first appeared at k=129.
+n=9: 64, first appeared at k=57.
+n=10: 76, first appeared at k=73.
+n=11: 76, first appeared at k=77.
+n=12: 84, first appeared at k=77.
+n=13: 96, first appeared at k=97.
+n=14: 104, first appeared at k=97.
+n=15: 104, first appeared at k=105.
+i=2: 
+n=1: 4, first appeared at k=21.
+n=2: 28/3, first appeared at k=37.
+n=3: 12, first appeared at k=37.
+n=4: 12, first appeared at k=53.
+n=5: 56/3, first appeared at k=65.
+n=6: 76/3, first appeared at k=85.
+n=7: 28, first appeared at k=53.
+n=8: 32, first appeared at k=57.
+n=9: 40, first appeared at k=89.
+n=10: 48, first appeared at k=89.
+n=11: 50, first appeared at k=113.
+n=12: 52, first appeared at k=113.
+n=13: 64, first appeared at k=113.
+n=14: 72, first appeared at k=113.
+n=15: 68, first appeared at k=109.
+
+Multiset containing all appearing denominators: 
+{* 1^^274, 2, 3^^44 *}
+{* 1^^257, 3^^40 *}
+==========================================================================
+Analyzing q=5, type=1. 
+The weight k goes up to 128.
+
+not max1 eq 2*max2 8 4 0
+Newform eigenvalue detected in oldforms for k=84, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=84, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 0, first appeared at k=0.
+n=2: 20, first appeared at k=44.
+n=3: 24, first appeared at k=48.
+n=4: 32, first appeared at k=48.
+n=5: 36, first appeared at k=84.
+n=6: 40, first appeared at k=64.
+n=7: 56, first appeared at k=116.
+n=8: 60, first appeared at k=64.
+n=9: 72, first appeared at k=64.
+n=10: 80, first appeared at k=68.
+n=11: 70, first appeared at k=128.
+n=12: 76, first appeared at k=80.
+n=13: 84, first appeared at k=80.
+n=14: 92, first appeared at k=96.
+n=15: 100, first appeared at k=104.
+i=2: 
+n=1: 0, first appeared at k=0.
+n=2: 12, first appeared at k=48.
+n=3: 16, first appeared at k=48.
+n=4: 52/3, first appeared at k=52.
+n=5: 20, first appeared at k=68.
+n=6: 28, first appeared at k=56.
+n=7: 34, first appeared at k=72.
+n=8: 40, first appeared at k=68.
+n=9: 38, first appeared at k=80.
+n=10: 44, first appeared at k=92.
+n=11: 52, first appeared at k=112.
+n=12: 54, first appeared at k=112.
+n=13: 56, first appeared at k=112.
+n=14: 60, first appeared at k=128.
+n=15: 66, first appeared at k=128.
+
+Multiset containing all appearing denominators: 
+{* 1^^313, 2, 3^^43 *}
+{* 1^^249, 3^^39 *}
+==========================================================================
+Analyzing q=5, type=2. 
+The weight k goes up to 127.
+
+Newform eigenvalue detected in oldforms for k=15, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=15, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=39, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=39, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 55 48 28
+not max1 eq 2*max2 59 48 40
+not max1 eq 2*max2 63 48 36
+not max1 eq 2*max2 67 56 48
+not max1 eq 2*max2 71 60 52
+Newform eigenvalue detected in oldforms for k=75, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=75, i=2.
+Multiplicities in T2:0, U2P0:2, U2P2: 2.
+not max1 eq 2*max2 75 58 44
+not max1 eq 2*max2 79 60 44
+not max1 eq 2*max2 83 68 56
+Newform eigenvalue detected in oldforms for k=87, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=87, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 87 68 52
+not max1 eq 2*max2 91 80 72
+not max1 eq 2*max2 95 80 68
+not max1 eq 2*max2 99 80 64
+not max1 eq 2*max2 103 88 60
+not max1 eq 2*max2 107 88 72
+Newform eigenvalue detected in oldforms for k=111, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=111, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 123 112 64
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 4, first appeared at k=27.
+n=2: 12, first appeared at k=27.
+n=3: 24, first appeared at k=51.
+n=4: 34, first appeared at k=71.
+n=5: 36, first appeared at k=51.
+n=6: 48, first appeared at k=35.
+n=7: 48, first appeared at k=47.
+n=8: 56, first appeared at k=71.
+n=9: 62, first appeared at k=127.
+n=10: 188/3, first appeared at k=127.
+n=11: 63, first appeared at k=127.
+n=12: 64, first appeared at k=99.
+n=13: 68, first appeared at k=99.
+n=14: 80, first appeared at k=91.
+n=15: 76, first appeared at k=127.
+i=2: 
+n=1: 4/3, first appeared at k=7.
+n=2: 4, first appeared at k=15.
+n=3: 16, first appeared at k=51.
+n=4: 24, first appeared at k=51.
+n=5: 24, first appeared at k=35.
+n=6: 40, first appeared at k=59.
+n=7: 44, first appeared at k=71.
+n=8: 52, first appeared at k=71.
+n=9: 48, first appeared at k=67.
+n=10: 56, first appeared at k=83.
+n=11: 52, first appeared at k=87.
+n=12: 72, first appeared at k=91.
+n=13: 60, first appeared at k=103.
+n=14: 56, first appeared at k=115.
+n=15: 64, first appeared at k=123.
+
+Multiset containing all appearing denominators: 
+{* 1^^307, 3^^44 *}
+{* 1^^249, 3^^40 *}
+==========================================================================
+Analyzing q=5, type=3. 
+The weight k goes up to 130.
+
+Newform eigenvalue detected in oldforms for k=30, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=30, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=42, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=42, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=66, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=66, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 70 76 40
+not max1 eq 2*max2 74 76 44
+Newform eigenvalue detected in oldforms for k=78, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=78, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 78 72 48
+not max1 eq 2*max2 82 76 48
+not max1 eq 2*max2 86 96 56
+Newform eigenvalue detected in oldforms for k=90, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=90, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 90 96 60
+not max1 eq 2*max2 94 96 64
+not max1 eq 2*max2 98 96 68
+not max1 eq 2*max2 102 96 72
+not max1 eq 2*max2 106 96 68
+not max1 eq 2*max2 110 96 72
+not max1 eq 2*max2 114 96 76
+not max1 eq 2*max2 118 96 80
+not max1 eq 2*max2 122 96 52
+Newform eigenvalue detected in oldforms for k=126, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=126, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 8, first appeared at k=34.
+n=2: 14, first appeared at k=34.
+n=3: 56/3, first appeared at k=34.
+n=4: 44, first appeared at k=94.
+n=5: 46, first appeared at k=98.
+n=6: 48, first appeared at k=42.
+n=7: 52, first appeared at k=58.
+n=8: 56, first appeared at k=78.
+n=9: 58, first appeared at k=78.
+n=10: 76, first appeared at k=66.
+n=11: 76, first appeared at k=70.
+n=12: 76, first appeared at k=82.
+n=13: 96, first appeared at k=94.
+n=14: 80, first appeared at k=98.
+n=15: 96, first appeared at k=86.
+i=2: 
+n=1: 8/3, first appeared at k=14.
+n=2: 6, first appeared at k=38.
+n=3: 32/3, first appeared at k=38.
+n=4: 24, first appeared at k=78.
+n=5: 28, first appeared at k=78.
+n=6: 36, first appeared at k=78.
+n=7: 44, first appeared at k=78.
+n=8: 48, first appeared at k=78.
+n=9: 44, first appeared at k=82.
+n=10: 48, first appeared at k=82.
+n=11: 60, first appeared at k=98.
+n=12: 68, first appeared at k=98.
+n=13: 72, first appeared at k=102.
+n=14: 60, first appeared at k=106.
+n=15: 76, first appeared at k=114.
+
+Multiset containing all appearing denominators: 
+{* 1^^320, 2, 3^^47 *}
+{* 1^^277, 3^^43 *}
+==========================================================================
+Analyzing q=7, type=0. 
+The weight k goes up to 147.
+
+Newform eigenvalue detected in oldforms for k=69, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=69, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=123, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=123, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=141, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=141, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 30, first appeared at k=87.
+n=2: 44, first appeared at k=81.
+n=3: 60, first appeared at k=81.
+n=4: 57, first appeared at k=129.
+n=5: 135/2, first appeared at k=147.
+n=6: 96, first appeared at k=99.
+n=7: 96, first appeared at k=105.
+n=8: 120, first appeared at k=135.
+n=9: 144, first appeared at k=129.
+n=10: 150, first appeared at k=147.
+n=11: 132, first appeared at k=117.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 12, first appeared at k=81.
+n=2: 22, first appeared at k=81.
+n=3: 30, first appeared at k=81.
+n=4: 24, first appeared at k=123.
+n=5: 40, first appeared at k=135.
+n=6: 48, first appeared at k=99.
+n=7: 60, first appeared at k=135.
+n=8: 72, first appeared at k=129.
+n=9: 72, first appeared at k=123.
+n=10: 66, first appeared at k=117.
+n=11: 75, first appeared at k=147.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^126, 2 *}
+{* 1^^118, 2^^4 *}
+==========================================================================
+Analyzing q=7, type=1. 
+The weight k goes up to 150.
+
+not max1 eq 2*max2 12 6 0
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 0, first appeared at k=0.
+n=2: 42, first appeared at k=90.
+n=3: 48, first appeared at k=96.
+n=4: 64, first appeared at k=96.
+n=5: 66, first appeared at k=132.
+n=6: 84, first appeared at k=132.
+n=7: 90, first appeared at k=138.
+n=8: 126, first appeared at k=132.
+n=9: 156, first appeared at k=132.
+n=10: 168, first appeared at k=138.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 0, first appeared at k=0.
+n=2: 24, first appeared at k=96.
+n=3: 32, first appeared at k=96.
+n=4: 34, first appeared at k=102.
+n=5: 42, first appeared at k=138.
+n=6: 54, first appeared at k=108.
+n=7: 69, first appeared at k=144.
+n=8: 84, first appeared at k=138.
+n=9: 78, first appeared at k=132.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^158, 2 *}
+{* 1^^126, 2^^5 *}
+==========================================================================
+Analyzing q=7, type=2. 
+The weight k goes up to 147.
+
+Newform eigenvalue detected in oldforms for k=21, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=21, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=75, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=75, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 105 96 66
+not max1 eq 2*max2 111 96 84
+not max1 eq 2*max2 117 96 78
+not max1 eq 2*max2 123 108 96
+Newform eigenvalue detected in oldforms for k=129, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=129, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 129 114 102
+not max1 eq 2*max2 135 120 108
+not max1 eq 2*max2 141 126 114
+Newform eigenvalue detected in oldforms for k=147, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 2.
+Newform eigenvalue detected in oldforms for k=147, i=2.
+Multiplicities in T2:0, U2P0:2, U2P2: 2.
+not max1 eq 2*max2 147 117 90
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 6, first appeared at k=51.
+n=2: 24, first appeared at k=51.
+n=3: 48, first appeared at k=99.
+n=4: 69, first appeared at k=141.
+n=5: 72, first appeared at k=99.
+n=6: 96, first appeared at k=63.
+n=7: 96, first appeared at k=69.
+n=8: 114, first appeared at k=141.
+n=9: 126, first appeared at k=141.
+n=10: 120, first appeared at k=135.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 2, first appeared at k=9.
+n=2: 6, first appeared at k=21.
+n=3: 32, first appeared at k=99.
+n=4: 48, first appeared at k=99.
+n=5: 48, first appeared at k=63.
+n=6: 66, first appeared at k=105.
+n=7: 90, first appeared at k=141.
+n=8: 114, first appeared at k=141.
+n=9: 102, first appeared at k=129.
+n=10: 108, first appeared at k=135.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^175, 2^^2 *}
+{* 1^^147 *}
+==========================================================================
+Analyzing q=7, type=3. 
+The weight k goes up to 150.
+
+Newform eigenvalue detected in oldforms for k=42, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=42, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=78, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=78, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 114 108 60
+not max1 eq 2*max2 120 150 78
+not max1 eq 2*max2 126 150 84
+Newform eigenvalue detected in oldforms for k=132, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=132, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 132 150 90
+not max1 eq 2*max2 138 150 96
+not max1 eq 2*max2 144 150 96
+Newform eigenvalue detected in oldforms for k=150, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=150, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+not max1 eq 2*max2 150 144 96
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 12, first appeared at k=60.
+n=2: 27, first appeared at k=60.
+n=3: 36, first appeared at k=60.
+n=4: 72, first appeared at k=150.
+n=5: 75, first appeared at k=150.
+n=6: 78, first appeared at k=150.
+n=7: 102, first appeared at k=108.
+n=8: 108, first appeared at k=150.
+n=9: 117, first appeared at k=150.
+n=10: 120, first appeared at k=150.
+n=11: 144, first appeared at k=150.
+n=12: 150, first appeared at k=120.
+n=13: 150, first appeared at k=126.
+n=14: 114, first appeared at k=138.
+n=15: 150, first appeared at k=138.
+i=2: 
+n=1: 4, first appeared at k=18.
+n=2: 9, first appeared at k=66.
+n=3: 20, first appeared at k=66.
+n=4: 48, first appeared at k=150.
+n=5: 54, first appeared at k=150.
+n=6: 72, first appeared at k=150.
+n=7: 90, first appeared at k=150.
+n=8: 96, first appeared at k=150.
+n=9: 75, first appeared at k=120.
+n=10: 78, first appeared at k=120.
+n=11: 90, first appeared at k=144.
+n=12: 96, first appeared at k=144.
+n=13: 90, first appeared at k=132.
+n=14: 90, first appeared at k=138.
+n=15: 96, first appeared at k=138.
+
+Multiset containing all appearing denominators: 
+{* 1^^203, 2 *}
+{* 1^^180, 2 *}
+==========================================================================
+Analyzing q=7, type=4. 
+The weight k goes up to 147.
+
+Newform eigenvalue detected in oldforms for k=45, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=45, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=63, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=63, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=81, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=81, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=99, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=99, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=135, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=135, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+not max1 eq 2*max2 141 162 84
+not max1 eq 2*max2 147 162 90
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 18, first appeared at k=69.
+n=2: 30, first appeared at k=69.
+n=3: 40, first appeared at k=69.
+n=4: 44, first appeared at k=75.
+n=5: 69, first appeared at k=147.
+n=6: 96, first appeared at k=81.
+n=7: 78, first appeared at k=117.
+n=8: 108, first appeared at k=117.
+n=9: 102, first appeared at k=111.
+n=10: 120, first appeared at k=111.
+n=11: 120, first appeared at k=99.
+n=12: 120, first appeared at k=105.
+n=13: 150, first appeared at k=129.
+n=14: 150, first appeared at k=135.
+n=15: 162, first appeared at k=135.
+i=2: 
+n=1: 6, first appeared at k=27.
+n=2: 12, first appeared at k=75.
+n=3: 22, first appeared at k=75.
+n=4: 24, first appeared at k=81.
+n=5: 48, first appeared at k=81.
+n=6: 48, first appeared at k=117.
+n=7: 54, first appeared at k=117.
+n=8: 54, first appeared at k=99.
+n=9: 60, first appeared at k=99.
+n=10: 72, first appeared at k=129.
+n=11: 75, first appeared at k=129.
+n=12: 75, first appeared at k=135.
+n=13: 78, first appeared at k=135.
+n=14: 81, first appeared at k=135.
+n=15: 81, first appeared at k=141.
+
+Multiset containing all appearing denominators: 
+{* 1^^192, 2 *}
+{* 1^^175, 2^^2 *}
+==========================================================================
+Analyzing q=7, type=5. 
+The weight k goes up to 150.
+
+Newform eigenvalue detected in oldforms for k=66, i=1.
+Multiplicities in T1:0, U1P0:0, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=66, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 1.
+Newform eigenvalue detected in oldforms for k=102, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=102, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Newform eigenvalue detected in oldforms for k=138, i=1.
+Multiplicities in T1:0, U1P0:1, U1P2: 1.
+Newform eigenvalue detected in oldforms for k=138, i=2.
+Multiplicities in T2:0, U2P0:1, U2P2: 0.
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 24, first appeared at k=78.
+n=2: 36, first appeared at k=66.
+n=3: 48, first appeared at k=66.
+n=4: 48, first appeared at k=72.
+n=5: 60, first appeared at k=132.
+n=6: 76, first appeared at k=126.
+n=7: 96, first appeared at k=90.
+n=8: 114, first appeared at k=126.
+n=9: 108, first appeared at k=102.
+n=10: 132, first appeared at k=120.
+n=11: 126, first appeared at k=138.
+n=12: 150, first appeared at k=138.
+n=13: 132, first appeared at k=108.
+n=14: 132, first appeared at k=144.
+n=15: 150, first appeared at k=144.
+i=2: 
+n=1: 8, first appeared at k=36.
+n=2: 18, first appeared at k=66.
+n=3: 24, first appeared at k=66.
+n=4: 26, first appeared at k=90.
+n=5: 48, first appeared at k=90.
+n=6: 48, first appeared at k=126.
+n=7: 57, first appeared at k=126.
+n=8: 60, first appeared at k=132.
+n=9: 66, first appeared at k=120.
+n=10: 66, first appeared at k=138.
+n=11: 75, first appeared at k=138.
+n=12: 66, first appeared at k=150.
+n=13: 75, first appeared at k=150.
+n=14: 78, first appeared at k=150.
+n=15: 81, first appeared at k=150.
+
+Multiset containing all appearing denominators: 
+{* 1^^175, 2 *}
+{* 1^^159, 2^^3 *}
+==========================================================================
+Analyzing q=8, type=0. 
+The weight k goes up to 172.
+
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 42, first appeared at k=109.
+n=2: 182/3, first appeared at k=109.
+n=3: 196/3, first appeared at k=116.
+n=4: 84, first appeared at k=158.
+n=5: 98, first appeared at k=172.
+n=6: 308/3, first appeared at k=172.
+n=7: 0, first appeared at k=-1.
+n=8: 0, first appeared at k=-1.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 21, first appeared at k=109.
+n=2: 91/3, first appeared at k=109.
+n=3: 35, first appeared at k=123.
+n=4: 35, first appeared at k=137.
+n=5: 42, first appeared at k=151.
+n=6: 154/3, first appeared at k=172.
+n=7: 0, first appeared at k=-1.
+n=8: 0, first appeared at k=-1.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^61, 2^^5, 3^^19 *}
+{* 1^^60, 2^^3, 3^^19, 4 *}
+==========================================================================
+Analyzing q=8, type=1. 
+The weight k goes up to 175.
+
+not max1 eq 2*max2 14 7 0
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 0, first appeared at k=0.
+n=2: 56, first appeared at k=119.
+n=3: 63, first appeared at k=126.
+n=4: 84, first appeared at k=126.
+n=5: 175/2, first appeared at k=175.
+n=6: 112, first appeared at k=175.
+n=7: 350/3, first appeared at k=175.
+n=8: 168, first appeared at k=168.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 0, first appeared at k=0.
+n=2: 63/2, first appeared at k=126.
+n=3: 42, first appeared at k=126.
+n=4: 49, first appeared at k=175.
+n=5: 56, first appeared at k=175.
+n=6: 70, first appeared at k=140.
+n=7: 84, first appeared at k=168.
+n=8: 0, first appeared at k=-1.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^103, 2^^16, 3^^21 *}
+{* 1^^85, 2^^7, 3^^21 *}
+==========================================================================
+Analyzing q=8, type=2. 
+The weight k goes up to 171.
+
+not max1 eq 2*max2 150 133 119
+not max1 eq 2*max2 157 140 126
+not max1 eq 2*max2 164 140 119
+not max1 eq 2*max2 171 147 126
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 7, first appeared at k=24.
+n=2: 42, first appeared at k=80.
+n=3: 133/2, first appeared at k=143.
+n=4: 126, first appeared at k=80.
+n=5: 126, first appeared at k=87.
+n=6: 126, first appeared at k=94.
+n=7: 98, first appeared at k=150.
+n=8: 133, first appeared at k=150.
+n=9: 147, first appeared at k=171.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 7/2, first appeared at k=24.
+n=2: 7, first appeared at k=24.
+n=3: 133/4, first appeared at k=143.
+n=4: 63, first appeared at k=80.
+n=5: 63, first appeared at k=94.
+n=6: 56, first appeared at k=171.
+n=7: 126, first appeared at k=157.
+n=8: 119, first appeared at k=150.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^101, 2^^9, 3^^28, 4^^6 *}
+{* 1^^80, 2^^15, 3^^28, 4^^3 *}
+==========================================================================
+Analyzing q=8, type=3. 
+The weight k goes up to 174.
+
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 14, first appeared at k=41.
+n=2: 70, first appeared at k=160.
+n=3: 77, first appeared at k=160.
+n=4: 84, first appeared at k=160.
+n=5: 308/3, first appeared at k=160.
+n=6: 252, first appeared at k=160.
+n=7: 252, first appeared at k=153.
+n=8: 112, first appeared at k=174.
+n=9: 252, first appeared at k=167.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 7, first appeared at k=41.
+n=2: 14, first appeared at k=55.
+n=3: 77/3, first appeared at k=83.
+n=4: 119/3, first appeared at k=125.
+n=5: 49, first appeared at k=153.
+n=6: 126, first appeared at k=153.
+n=7: 126, first appeared at k=160.
+n=8: 126, first appeared at k=167.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^98, 2^^16, 3^^24, 4 *}
+{* 1^^86, 2^^10, 3^^24, 4^^2 *}
+==========================================================================
+Analyzing q=8, type=4. 
+The weight k goes up to 170.
+
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 21, first appeared at k=58.
+n=2: 49, first appeared at k=86.
+n=3: 70, first appeared at k=170.
+n=4: 77, first appeared at k=170.
+n=5: 140, first appeared at k=114.
+n=6: 140, first appeared at k=121.
+n=7: 259, first appeared at k=170.
+n=8: 154, first appeared at k=128.
+n=9: 252, first appeared at k=163.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 21/2, first appeared at k=58.
+n=2: 21, first appeared at k=86.
+n=3: 28, first appeared at k=93.
+n=4: 112/3, first appeared at k=121.
+n=5: 70, first appeared at k=114.
+n=6: 77, first appeared at k=156.
+n=7: 259/2, first appeared at k=170.
+n=8: 126, first appeared at k=163.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^85, 2^^4, 3^^30, 4^^4 *}
+{* 1^^74, 2^^13, 3^^29, 4, 6 *}
+==========================================================================
+Analyzing q=8, type=5. 
+The weight k goes up to 173.
+
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 28, first appeared at k=75.
+n=2: 91/2, first appeared at k=103.
+n=3: 56, first appeared at k=96.
+n=4: 147/2, first appeared at k=131.
+n=5: 98, first appeared at k=159.
+n=6: 280/3, first appeared at k=152.
+n=7: 308/3, first appeared at k=166.
+n=8: 189/2, first appeared at k=173.
+n=9: 322/3, first appeared at k=173.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 14, first appeared at k=75.
+n=2: 28, first appeared at k=103.
+n=3: 91/3, first appeared at k=103.
+n=4: 49, first appeared at k=159.
+n=5: 140/3, first appeared at k=152.
+n=6: 154/3, first appeared at k=166.
+n=7: 161/3, first appeared at k=173.
+n=8: 0, first appeared at k=-1.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^80, 2^^12, 3^^19 *}
+{* 1^^71, 2^^6, 3^^19, 4 *}
+==========================================================================
+Analyzing q=8, type=6. 
+The weight k goes up to 176.
+
+Assertions regarding the containment and multiplicities of slopes were 
+successful for all weights. 
+
+Upper bounds for the n'th smallest slopes are the following. 
+i=1: 
+n=1: 35, first appeared at k=92.
+n=2: 56, first appeared at k=120.
+n=3: 84, first appeared at k=148.
+n=4: 91, first appeared at k=162.
+n=5: 154, first appeared at k=148.
+n=6: 154, first appeared at k=155.
+n=7: 182, first appeared at k=176.
+n=8: 0, first appeared at k=-1.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+i=2: 
+n=1: 35/2, first appeared at k=92.
+n=2: 77/3, first appeared at k=92.
+n=3: 35, first appeared at k=148.
+n=4: 133/3, first appeared at k=148.
+n=5: 77, first appeared at k=148.
+n=6: 91, first appeared at k=176.
+n=7: 0, first appeared at k=-1.
+n=8: 0, first appeared at k=-1.
+n=9: 0, first appeared at k=-1.
+n=10: 0, first appeared at k=-1.
+n=11: 0, first appeared at k=-1.
+n=12: 0, first appeared at k=-1.
+n=13: 0, first appeared at k=-1.
+n=14: 0, first appeared at k=-1.
+n=15: 0, first appeared at k=-1.
+
+Multiset containing all appearing denominators: 
+{* 1^^75, 2, 3^^25, 4^^2 *}
+{* 1^^67, 2^^9, 3^^25 *}
+
+Total time: 1.360 seconds, Total memory usage: 64.12MB

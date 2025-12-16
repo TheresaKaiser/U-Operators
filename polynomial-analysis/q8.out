@@ -1,0 +1,420 @@
+Magma V2.29-2     Thu Nov 27 2025 17:27:16 on riemann  [Seed = 3482246861]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "testPolsq8.mg"
+Loading "header.mg"
+8
+i:  1
+type:  0
+Loading "tuples1q8type0.txt"
+Test completed successfully for k = 4
+Test completed successfully for k = 11
+Test completed successfully for k = 18
+Test completed successfully for k = 25
+Test completed successfully for k = 32
+Test completed successfully for k = 39
+Test completed successfully for k = 46
+Test completed successfully for k = 53
+Test completed successfully for k = 60
+Test completed successfully for k = 67
+Test completed successfully for k = 74
+Test completed successfully for k = 81
+Test completed successfully for k = 88
+Test completed successfully for k = 95
+Test completed successfully for k = 102
+Test completed successfully for k = 109
+Test completed successfully for k = 116
+Test completed successfully for k = 123
+Test completed successfully for k = 130
+Test completed successfully for k = 137
+Test completed successfully for k = 144
+Test completed successfully for k = 151
+Test completed successfully for k = 158
+Test completed successfully for k = 165
+Test completed successfully for k = 172
+type:  1
+Loading "tuples1q8type1.txt"
+Test completed successfully for k = 0
+Test completed successfully for k = 7
+Test completed successfully for k = 14
+Test completed successfully for k = 21
+Test completed successfully for k = 28
+Test completed successfully for k = 35
+Test completed successfully for k = 42
+Test completed successfully for k = 49
+Test completed successfully for k = 56
+Test completed successfully for k = 63
+q=8, i=1, k=70, type=1. T_i-Charpol (needs to be renormalized): X + t^7. 
+Test completed successfully for k = 70
+q=8, i=1, k=77, type=1. T_i-Charpol (needs to be renormalized): X + t^14. 
+Test completed successfully for k = 77
+q=8, i=1, k=84, type=1. T_i-Charpol (needs to be renormalized): X + t^21. 
+Test completed successfully for k = 84
+q=8, i=1, k=91, type=1. T_i-Charpol (needs to be renormalized): X + t^28. 
+Test completed successfully for k = 91
+q=8, i=1, k=98, type=1. T_i-Charpol (needs to be renormalized): X + t^35. 
+Test completed successfully for k = 98
+q=8, i=1, k=105, type=1. T_i-Charpol (needs to be renormalized): X + t^42. 
+Test completed successfully for k = 105
+q=8, i=1, k=112, type=1. T_i-Charpol (needs to be renormalized): X + t^49. 
+Test completed successfully for k = 112
+q=8, i=1, k=119, type=1. T_i-Charpol (needs to be renormalized): X + t^56. 
+Test completed successfully for k = 119
+q=8, i=1, k=126, type=1. T_i-Charpol (needs to be renormalized): X + t^7. 
+Test completed successfully for k = 126
+Test completed successfully for k = 133
+Test completed successfully for k = 140
+Test completed successfully for k = 147
+Test completed successfully for k = 154
+Test completed successfully for k = 161
+Test completed successfully for k = 168
+Test completed successfully for k = 175
+type:  2
+Loading "tuples1q8type2.txt"
+Test completed successfully for k = 3
+Test completed successfully for k = 10
+Test completed successfully for k = 17
+Test completed successfully for k = 24
+Test completed successfully for k = 31
+Test completed successfully for k = 38
+Test completed successfully for k = 45
+Test completed successfully for k = 52
+Test completed successfully for k = 59
+Test completed successfully for k = 66
+Test completed successfully for k = 73
+Test completed successfully for k = 80
+Test completed successfully for k = 87
+Test completed successfully for k = 94
+Test completed successfully for k = 101
+Test completed successfully for k = 108
+Test completed successfully for k = 115
+Test completed successfully for k = 122
+Test completed successfully for k = 129
+Test completed successfully for k = 136
+q=8, i=1, k=143, type=2. T_i-Charpol (needs to be renormalized): X + t^16. 
+Test completed successfully for k = 143
+q=8, i=1, k=150, type=2. T_i-Charpol (needs to be renormalized): X + t^23. 
+Test completed successfully for k = 150
+q=8, i=1, k=157, type=2. T_i-Charpol (needs to be renormalized): X + t^30. 
+Test completed successfully for k = 157
+q=8, i=1, k=164, type=2. T_i-Charpol (needs to be renormalized): X + t^37. 
+Test completed successfully for k = 164
+q=8, i=1, k=171, type=2. T_i-Charpol (needs to be renormalized): X + t^44. 
+Test completed successfully for k = 171
+type:  3
+Loading "tuples1q8type3.txt"
+Test completed successfully for k = 6
+Test completed successfully for k = 13
+Test completed successfully for k = 20
+Test completed successfully for k = 27
+Test completed successfully for k = 34
+Test completed successfully for k = 41
+Test completed successfully for k = 48
+Test completed successfully for k = 55
+Test completed successfully for k = 62
+Test completed successfully for k = 69
+Test completed successfully for k = 76
+Test completed successfully for k = 83
+Test completed successfully for k = 90
+Test completed successfully for k = 97
+Test completed successfully for k = 104
+Test completed successfully for k = 111
+Test completed successfully for k = 118
+Test completed successfully for k = 125
+Test completed successfully for k = 132
+Test completed successfully for k = 139
+Test completed successfully for k = 146
+Test completed successfully for k = 153
+Test completed successfully for k = 160
+Test completed successfully for k = 167
+Test completed successfully for k = 174
+type:  4
+Loading "tuples1q8type4.txt"
+Test completed successfully for k = 2
+Test completed successfully for k = 9
+Test completed successfully for k = 16
+Test completed successfully for k = 23
+Test completed successfully for k = 30
+Test completed successfully for k = 37
+Test completed successfully for k = 44
+Test completed successfully for k = 51
+Test completed successfully for k = 58
+Test completed successfully for k = 65
+Test completed successfully for k = 72
+Test completed successfully for k = 79
+Test completed successfully for k = 86
+Test completed successfully for k = 93
+Test completed successfully for k = 100
+Test completed successfully for k = 107
+Test completed successfully for k = 114
+Test completed successfully for k = 121
+Test completed successfully for k = 128
+Test completed successfully for k = 135
+Test completed successfully for k = 142
+Test completed successfully for k = 149
+Test completed successfully for k = 156
+Test completed successfully for k = 163
+Test completed successfully for k = 170
+type:  5
+Loading "tuples1q8type5.txt"
+Test completed successfully for k = 5
+Test completed successfully for k = 12
+Test completed successfully for k = 19
+Test completed successfully for k = 26
+Test completed successfully for k = 33
+Test completed successfully for k = 40
+Test completed successfully for k = 47
+Test completed successfully for k = 54
+Test completed successfully for k = 61
+Test completed successfully for k = 68
+Test completed successfully for k = 75
+Test completed successfully for k = 82
+Test completed successfully for k = 89
+Test completed successfully for k = 96
+Test completed successfully for k = 103
+Test completed successfully for k = 110
+Test completed successfully for k = 117
+Test completed successfully for k = 124
+Test completed successfully for k = 131
+Test completed successfully for k = 138
+Test completed successfully for k = 145
+Test completed successfully for k = 152
+Test completed successfully for k = 159
+Test completed successfully for k = 166
+Test completed successfully for k = 173
+type:  6
+Loading "tuples1q8type6.txt"
+Test completed successfully for k = 1
+Test completed successfully for k = 8
+Test completed successfully for k = 15
+Test completed successfully for k = 22
+Test completed successfully for k = 29
+Test completed successfully for k = 36
+Test completed successfully for k = 43
+Test completed successfully for k = 50
+Test completed successfully for k = 57
+Test completed successfully for k = 64
+Test completed successfully for k = 71
+Test completed successfully for k = 78
+Test completed successfully for k = 85
+Test completed successfully for k = 92
+Test completed successfully for k = 99
+Test completed successfully for k = 106
+Test completed successfully for k = 113
+Test completed successfully for k = 120
+Test completed successfully for k = 127
+Test completed successfully for k = 134
+Test completed successfully for k = 141
+Test completed successfully for k = 148
+Test completed successfully for k = 155
+Test completed successfully for k = 162
+Test completed successfully for k = 169
+Test completed successfully for k = 176
+i:  2
+type:  0
+Loading "tuples2q8type0.txt"
+Test completed successfully for k = 4
+Test completed successfully for k = 11
+Test completed successfully for k = 18
+Test completed successfully for k = 25
+Test completed successfully for k = 32
+Test completed successfully for k = 39
+Test completed successfully for k = 46
+Test completed successfully for k = 53
+Test completed successfully for k = 60
+Test completed successfully for k = 67
+Test completed successfully for k = 74
+Test completed successfully for k = 81
+Test completed successfully for k = 88
+Test completed successfully for k = 95
+Test completed successfully for k = 102
+Test completed successfully for k = 109
+Test completed successfully for k = 116
+Test completed successfully for k = 123
+Test completed successfully for k = 130
+Test completed successfully for k = 137
+Test completed successfully for k = 144
+Test completed successfully for k = 151
+Test completed successfully for k = 158
+Test completed successfully for k = 165
+Test completed successfully for k = 172
+type:  1
+Loading "tuples2q8type1.txt"
+Test completed successfully for k = 0
+Test completed successfully for k = 7
+Test completed successfully for k = 14
+Test completed successfully for k = 21
+Test completed successfully for k = 28
+Test completed successfully for k = 35
+Test completed successfully for k = 42
+Test completed successfully for k = 49
+Test completed successfully for k = 56
+Test completed successfully for k = 63
+q=8, i=2, k=70, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 70
+q=8, i=2, k=77, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 77
+q=8, i=2, k=84, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 84
+q=8, i=2, k=91, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 91
+q=8, i=2, k=98, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 98
+q=8, i=2, k=105, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 105
+q=8, i=2, k=112, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 112
+q=8, i=2, k=119, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 119
+q=8, i=2, k=126, type=1. T_i-Charpol (needs to be renormalized): X + 1. 
+Test completed successfully for k = 126
+Test completed successfully for k = 133
+Test completed successfully for k = 140
+Test completed successfully for k = 147
+Test completed successfully for k = 154
+Test completed successfully for k = 161
+Test completed successfully for k = 168
+Test completed successfully for k = 175
+type:  2
+Loading "tuples2q8type2.txt"
+Test completed successfully for k = 3
+Test completed successfully for k = 10
+Test completed successfully for k = 17
+Test completed successfully for k = 24
+Test completed successfully for k = 31
+Test completed successfully for k = 38
+Test completed successfully for k = 45
+Test completed successfully for k = 52
+Test completed successfully for k = 59
+Test completed successfully for k = 66
+Test completed successfully for k = 73
+Test completed successfully for k = 80
+Test completed successfully for k = 87
+Test completed successfully for k = 94
+Test completed successfully for k = 101
+Test completed successfully for k = 108
+Test completed successfully for k = 115
+Test completed successfully for k = 122
+Test completed successfully for k = 129
+Test completed successfully for k = 136
+q=8, i=2, k=143, type=2. T_i-Charpol (needs to be renormalized): X + t. 
+Test completed successfully for k = 143
+q=8, i=2, k=150, type=2. T_i-Charpol (needs to be renormalized): X + t^8. 
+Test completed successfully for k = 150
+q=8, i=2, k=157, type=2. T_i-Charpol (needs to be renormalized): X + t. 
+Test completed successfully for k = 157
+q=8, i=2, k=164, type=2. T_i-Charpol (needs to be renormalized): X + t^8. 
+Test completed successfully for k = 164
+q=8, i=2, k=171, type=2. T_i-Charpol (needs to be renormalized): X + t. 
+Test completed successfully for k = 171
+type:  3
+Loading "tuples2q8type3.txt"
+Test completed successfully for k = 6
+Test completed successfully for k = 13
+Test completed successfully for k = 20
+Test completed successfully for k = 27
+Test completed successfully for k = 34
+Test completed successfully for k = 41
+Test completed successfully for k = 48
+Test completed successfully for k = 55
+Test completed successfully for k = 62
+Test completed successfully for k = 69
+Test completed successfully for k = 76
+Test completed successfully for k = 83
+Test completed successfully for k = 90
+Test completed successfully for k = 97
+Test completed successfully for k = 104
+Test completed successfully for k = 111
+Test completed successfully for k = 118
+Test completed successfully for k = 125
+Test completed successfully for k = 132
+Test completed successfully for k = 139
+Test completed successfully for k = 146
+Test completed successfully for k = 153
+Test completed successfully for k = 160
+Test completed successfully for k = 167
+Test completed successfully for k = 174
+type:  4
+Loading "tuples2q8type4.txt"
+Test completed successfully for k = 2
+Test completed successfully for k = 9
+Test completed successfully for k = 16
+Test completed successfully for k = 23
+Test completed successfully for k = 30
+Test completed successfully for k = 37
+Test completed successfully for k = 44
+Test completed successfully for k = 51
+Test completed successfully for k = 58
+Test completed successfully for k = 65
+Test completed successfully for k = 72
+Test completed successfully for k = 79
+Test completed successfully for k = 86
+Test completed successfully for k = 93
+Test completed successfully for k = 100
+Test completed successfully for k = 107
+Test completed successfully for k = 114
+Test completed successfully for k = 121
+Test completed successfully for k = 128
+Test completed successfully for k = 135
+Test completed successfully for k = 142
+Test completed successfully for k = 149
+Test completed successfully for k = 156
+Test completed successfully for k = 163
+Test completed successfully for k = 170
+type:  5
+Loading "tuples2q8type5.txt"
+Test completed successfully for k = 5
+Test completed successfully for k = 12
+Test completed successfully for k = 19
+Test completed successfully for k = 26
+Test completed successfully for k = 33
+Test completed successfully for k = 40
+Test completed successfully for k = 47
+Test completed successfully for k = 54
+Test completed successfully for k = 61
+Test completed successfully for k = 68
+Test completed successfully for k = 75
+Test completed successfully for k = 82
+Test completed successfully for k = 89
+Test completed successfully for k = 96
+Test completed successfully for k = 103
+Test completed successfully for k = 110
+Test completed successfully for k = 117
+Test completed successfully for k = 124
+Test completed successfully for k = 131
+Test completed successfully for k = 138
+Test completed successfully for k = 145
+Test completed successfully for k = 152
+Test completed successfully for k = 159
+Test completed successfully for k = 166
+Test completed successfully for k = 173
+type:  6
+Loading "tuples2q8type6.txt"
+Test completed successfully for k = 1
+Test completed successfully for k = 8
+Test completed successfully for k = 15
+Test completed successfully for k = 22
+Test completed successfully for k = 29
+Test completed successfully for k = 36
+Test completed successfully for k = 43
+Test completed successfully for k = 50
+Test completed successfully for k = 57
+Test completed successfully for k = 64
+Test completed successfully for k = 71
+Test completed successfully for k = 78
+Test completed successfully for k = 85
+Test completed successfully for k = 92
+Test completed successfully for k = 99
+Test completed successfully for k = 106
+Test completed successfully for k = 113
+Test completed successfully for k = 120
+Test completed successfully for k = 127
+Test completed successfully for k = 134
+Test completed successfully for k = 141
+Test completed successfully for k = 148
+Test completed successfully for k = 155
+Test completed successfully for k = 162
+Test completed successfully for k = 169
+Test completed successfully for k = 176
+
+Total time: 175.080 seconds, Total memory usage: 128.19MB
